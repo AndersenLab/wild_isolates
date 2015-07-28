@@ -1,0 +1,970 @@
+B306,1/14/15 Review,Bam_Name,Run,Library,Strain,Isotype,Latitude,Longitude,Location,FELIX DB LOC,Fastq Modifications,Original Fastq2,Library Prepareation Method
+,doesnt group,Uchicago-L001-JU2316,Uchicago,L001,JU2316,,38.7175,-9.1486,"Lisbon, Portugal","Isolated from rotten Ficus macrophylla fruits sampled on 25 Aug 2013 in the Botanical Garden of the University of Lisbon, Portugal. Plated on 26 Aug. Started from a post-dauer juvenile on 26 Aug. Same sample as JU2317 and JU2377.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-JU2466,Uchicago,L001,JU2466,,-13.257,-72.266,"Ollantaytambo, Peru","From a rotting lemon collected by Ludmilla Lokmane in Ollanta (Peru; -13.266085, -72.179351) in Jan 2013. Isolated by Lise Frézal. Line started from an adult isolated on 9 Jan 2013.
+",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-JU2513,Uchicago,L002,JU2513,,38.26016,22.0736,"Aigio, Greece","Isolated from a rotting orange sampled by MAF near Aigio, Greece on 7 May 2013. 38.26016, 22.0736.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-JU2519,Uchicago,L002,JU2519,,38.7175,-9.1486,"Lisbon, Portugal","Isolated from rotten Ficus isophlebia fruits sampled on 25 Aug 2013 in the Botanical Garden of the University of Lisbon, Portugal. Plated on 26 Aug. Started from a dauer juvenile on 26 Aug. Same sample as JU2520-1. Same tree as JU778-81.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-JU2522,Uchicago,L002,JU2522,,38.7175,-9.1486,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-JU2526,Uchicago,L002,JU2526,,38.7175,-9.1486,"Lisbon, Portugal","Isolated from rotten fruits of Chrysophyllum imperiale sampled on 25 Aug 2013 in the Botanical Garden of the University of Lisbon, Portugal. Plated on 26 Aug. Started from a dauer juvenile on 26 Aug. Same sample as JU2524-5. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC242,Uchicago,L001,NIC242,,38.691765,-9.31609,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC251,Uchicago,L001,NIC251,,38.66621,28.151364,"Ribeira do Nabo, Urzelina, S. Jorge, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC252,Uchicago,L002,NIC252,,38.661313,-28.147949,"Ribeira do Nabo, Urzelina, S. Jorge, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC255,Uchicago,L002,NIC255,,43.714834,7.266779,Parc Valrose,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC258,Uchicago,L001,NIC258,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC259,Uchicago,L001,NIC259,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC260,Uchicago,L002,NIC260,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC261,Uchicago,L001,NIC261,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC262,Uchicago,L001,NIC262,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC265,Uchicago,L002,NIC265,,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC266,Uchicago,L002,NIC266,,38.69237,-9.31592,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC268,Uchicago,L002,NIC268,,38.69237,-9.31592,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC269,Uchicago,L001,NIC269,,38.69237,-9.31592,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC274,Uchicago,L001,NIC274,,39.769459,-8.756356,"AlqueidÃ£o da Boavista, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-NIC275,Uchicago,L001,NIC275,,39.769459,-8.756356,"AlqueidÃ£o da Boavista, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC276,Uchicago,L002,NIC276,,39.769459,-8.756356,"AlqueidÃ£o da Boavista, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-NIC277,Uchicago,L002,NIC277,,43.716441,7.266138,Parc Valrose,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L001-QG2075,Uchicago,L001,QG2075,,33.951,-83.376,"Athens, Georgia, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,doesnt group,Uchicago-L002-QW947,Uchicago,L002,QW947,,-33.4213,-70.6106,"Santiago, Chile",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-AB1,ok,BGI1-RET2-AB1,BGI1,RET2,AB1,AB1,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-AB1,ok,BGI2-RET2-AB1,BGI2,RET2,AB1,AB1,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-AB1,ok,BGI3-RET2b-AB1,BGI3,RET2b,AB1,AB1,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-AB1,ok,MMP-7028LAB_5-AB1,MMP,7028LAB_5,AB1,AB1,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-B00B7AB_3-AB1,ok,MMP-B00B7AB_3-AB1,MMP,B00B7AB_3,AB1,AB1,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-C02D1AC_1-AB1,ok,MMP-C02D1AC_1-AB1,MMP,C02D1AC_1,AB1,AB1,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-D09NFAC_4-AB1,ok,MMP-D09NFAC_4-AB1,MMP,D09NFAC_4,AB1,AB1,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-D0A7EAC_1-AB1,ok,MMP-D0A7EAC_1-AB1,MMP,D0A7EAC_1,AB1,AB1,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+Rockman096-R096.2-AB1,ok,Rockman096-R096.2-AB1,Rockman096,R096.2,AB1,AB1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+MMP-7028LAB_5-AB3,ok,MMP-7028LAB_5-AB3,MMP,7028LAB_5,AB3,AB4,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-B00B7AB_3-AB3,ok,MMP-B00B7AB_3-AB3,MMP,B00B7AB_3,AB3,AB4,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-C02D1AC_1-AB3,ok,MMP-C02D1AC_1-AB3,MMP,C02D1AC_1,AB3,AB4,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-D09NFAC_4-AB3,ok,MMP-D09NFAC_4-AB3,MMP,D09NFAC_4,AB3,AB4,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+MMP-D0A7EAC_1-AB3,ok,MMP-D0A7EAC_1-AB3,MMP,D0A7EAC_1,AB3,AB4,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+BGI1-RET2-AB4,ok,BGI1-RET2-AB4,BGI1,RET2,AB4,AB4,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-AB4,ok,BGI2-RET2-AB4,BGI2,RET2,AB4,AB4,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-AB4,ok,BGI3-RET2a-AB4,BGI3,RET2a,AB4,AB4,-34.93,138.59,"Adelaide, Australia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman999-R999.1-AB2,ok,Rockman999-R999.1-AB2,Rockman999,R999.1,AB2,AB4,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_c099uac-AB4,rename,Princeton-ECA34Pool_c099uac-AB4,Princeton,ECA34Pool_c099uac,AB4,AB4,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34_c045gab-AB4,rename,Princeton-ECA34_c045gab-AB4,Princeton,ECA34_c045gab,AB4,AB4,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-AB4,rename,Princeton-ECA34Pool_d0mbhac-AB4,Princeton,ECA34Pool_d0mbhac,AB4,AB4,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-CB4851_CGC,ok,BGI1-RET3-CB4851_CGC,BGI1,RET3,CB4851_CGC,CB4851_CGC,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-CB4851_CGC,ok,BGI2-RET3-CB4851_CGC,BGI2,RET3,CB4851_CGC,CB4851_CGC,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-CB4851_CGC,ok,BGI3-RET3b-CB4851_CGC,BGI3,RET3b,CB4851_CGC,CB4851_CGC,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA41_d0ncdac-CB4851,ok,Princeton-ECA41_d0ncdac-CB4851,Princeton,ECA41_d0ncdac,CB4851,CB4851_CGC,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA44_47-CB4851,rename,Princeton-ECA44_47-CB4851,Princeton,ECA44_47,CB4851,CB4851_CGC,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-CB4852,ok,BGI1-RET1-CB4852,BGI1,RET1,CB4852,CB4852,NA,NA,Unknown,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-CB4852,ok,BGI1-RET4-CB4852,BGI1,RET4,CB4852,CB4852,NA,NA,Unknown,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-CB4852,ok,BGI2-RET1-CB4852,BGI2,RET1,CB4852,CB4852,NA,NA,Unknown,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-CB4852,ok,BGI2-RET4-CB4852,BGI2,RET4,CB4852,CB4852,NA,NA,Unknown,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-CB4852,ok,BGI3-RET1b-CB4852,BGI3,RET1b,CB4852,CB4852,NA,NA,Unknown,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.2-CB4852,ok,Rockman096-R096.2-CB4852,Rockman096,R096.2,CB4852,CB4852,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_c099uac-CB4852,rename,Princeton-ECA34Pool_c099uac-CB4852,Princeton,ECA34Pool_c099uac,CB4852,CB4852,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-CB4852,rename,Princeton-ECA34Pool_d0mbhac-CB4852,Princeton,ECA34Pool_d0mbhac,CB4852,CB4852,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+MMP-7028LAB_5-CB4853,ok,MMP-7028LAB_5-CB4853,MMP,7028LAB_5,CB4853,CB4853,,,"Altadena, California (United States)",,None,,Sonication
+MMP-B00B7AB_3-CB4853,ok,MMP-B00B7AB_3-CB4853,MMP,B00B7AB_3,CB4853,CB4853,,,"Altadena, California (United States)",,None,,Sonication
+MMP-C02D1AC_1-CB4853,ok,MMP-C02D1AC_1-CB4853,MMP,C02D1AC_1,CB4853,CB4853,,,"Altadena, California (United States)",,None,,Sonication
+MMP-D09NFAC_4-CB4853,ok,MMP-D09NFAC_4-CB4853,MMP,D09NFAC_4,CB4853,CB4853,,,"Altadena, California (United States)",,None,,Sonication
+MMP-D0A7EAC_1-CB4853,ok,MMP-D0A7EAC_1-CB4853,MMP,D0A7EAC_1,CB4853,CB4853,,,"Altadena, California (United States)",,None,,Sonication
+BGI2-RET6-CB4853_CGC,ok,BGI2-RET6-CB4853_CGC,BGI2,RET6,CB4853_CGC,CB4853,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-CB4853_CGC,ok,BGI3-RET6a-CB4853_CGC,BGI3,RET6a,CB4853_CGC,CB4853,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-CB4853_UK,ok,BGI1-RET3-CB4853_UK,BGI1,RET3,CB4853_UK,CB4853,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-CB4853_UK,ok,BGI2-RET3-CB4853_UK,BGI2,RET3,CB4853_UK,CB4853,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-CB4853_UK,ok,BGI3-RET3a-CB4853_UK,BGI3,RET3a,CB4853_UK,CB4853,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA35_c099uac-CB4853,ok,Princeton-ECA35_c099uac-CB4853,Princeton,ECA35_c099uac,CB4853,CB4853,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-CB4853,ok,Princeton-ECA35_d0mbhac-CB4853,Princeton,ECA35_d0mbhac,CB4853,CB4853,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-CB4854,ok,BGI1-RET7-CB4854,BGI1,RET7,CB4854,CB4854,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-CB4854,ok,BGI2-RET7-CB4854,BGI2,RET7,CB4854,CB4854,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-CB4854,ok,BGI3-RET7a-CB4854,BGI3,RET7a,CB4854,CB4854,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-CB4854,ok,MMP-7028LAB_5-CB4854,MMP,7028LAB_5,CB4854,CB4854,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+MMP-B00B7AB_3-CB4854,ok,MMP-B00B7AB_3-CB4854,MMP,B00B7AB_3,CB4854,CB4854,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+MMP-C02D1AC_1-CB4854,ok,MMP-C02D1AC_1-CB4854,MMP,C02D1AC_1,CB4854,CB4854,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+MMP-D09NFAC_4-CB4854,ok,MMP-D09NFAC_4-CB4854,MMP,D09NFAC_4,CB4854,CB4854,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+MMP-D0A7EAC_1-CB4854,ok,MMP-D0A7EAC_1-CB4854,MMP,D0A7EAC_1,CB4854,CB4854,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+BGI1-RET4-CB4855_UK,ok,BGI1-RET4-CB4855_UK,BGI1,RET4,CB4855_UK,CB4855_UK,37.44,-122.14,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-CB4855_UK,ok,BGI2-RET4-CB4855_UK,BGI2,RET4,CB4855_UK,CB4855_UK,37.44,-122.14,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-CB4855_UK,ok,BGI3-RET4b-CB4855_UK,BGI3,RET4b,CB4855_UK,CB4855_UK,37.44,-122.14,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-CB4855,ok,Princeton-ECA30_c02hkac-CB4855,Princeton,ECA30_c02hkac,CB4855,CB4855_UK,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-CB4855,ok,Princeton-ECA30_c03b2ab-CB4855,Princeton,ECA30_c03b2ab,CB4855,CB4855_UK,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+MMP-62GECAA_1-CB4856,ok,MMP-62GECAA_1-CB4856,MMP,62GECAA_1,CB4856,CB4856,21.33,-157.86,"Oahu, Hawaii",,None,,Sonication
+Rockman106-R106.3-CB4856,ok,Rockman106-R106.3-CB4856,Rockman106,R106.3,CB4856,CB4856,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-CB4856,ok,BGI1-RET1-CB4856,BGI1,RET1,CB4856,CB4856,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-CB4856,ok,BGI2-RET1-CB4856,BGI2,RET1,CB4856,CB4856,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1a-CB4856,ok,BGI3-RET1a-CB4856,BGI3,RET1a,CB4856,CB4856,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-P-CB4856,ok,Princeton-P-CB4856,Princeton,P,CB4856,CB4856,,,,,-10bp of end (low quality),,Tagmentation
+Uchicago-L001-CB4856,ok,Uchicago-L001-CB4856,Uchicago,L001,CB4856,CB4856,21.33,-157.86,"Oahu, Hawaii",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman999-R999.1-CB4856,ok,Rockman999-R999.1-CB4856,Rockman999,R999.1,CB4856,CB4856,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Uchicago-L001-CB4857_CGC,ok,Uchicago-L001-CB4857_CGC,Uchicago,L001,CB4857_CGC,CB4857,34.096,-117.719,"Claremont, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-CB4857_UK,ok,BGI1-RET6-CB4857_UK,BGI1,RET6,CB4857_UK,CB4857,34.096,-117.719,"Claremont, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-CB4857_UK,ok,BGI2-RET6-CB4857_UK,BGI2,RET6,CB4857_UK,CB4857,34.096,-117.719,"Claremont, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-CB4857_UK,ok,BGI3-RET6b-CB4857_UK,BGI3,RET6b,CB4857_UK,CB4857,34.096,-117.719,"Claremont, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-CB4857_CGC,ok,BGI3-RET1b-CB4857_CGC,BGI3,RET1b,CB4857_CGC,CB4857,34.096,-117.719,"Claremont, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-CB4858_UK,ok,BGI1-RET3-CB4858_UK,BGI1,RET3,CB4858_UK,CB4858_UK,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-CB4858_UK,ok,BGI2-RET3-CB4858_UK,BGI2,RET3,CB4858_UK,CB4858_UK,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-CB4858_UK,ok,BGI3-RET3b-CB4858_UK,BGI3,RET3b,CB4858_UK,CB4858_UK,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-CB4932,ok,BGI1-RET7-CB4932,BGI1,RET7,CB4932,CB4932,51.02,-3.1,"Taunton, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-CB4932,ok,BGI2-RET7-CB4932,BGI2,RET7,CB4932,CB4932,51.02,-3.1,"Taunton, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-CB4932,ok,BGI3-RET7b-CB4932,BGI3,RET7b,CB4932,CB4932,51.02,-3.1,"Taunton, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA35_c099uac-CB4932,ok,Princeton-ECA35_c099uac-CB4932,Princeton,ECA35_c099uac,CB4932,CB4932,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-CB4932,ok,Princeton-ECA35_d0mbhac-CB4932,Princeton,ECA35_d0mbhac,CB4932,CB4932,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-CX11254,ok,BGI1-RET3-CX11254,BGI1,RET3,CX11254,CX11254,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-CX11254,ok,BGI2-RET3-CX11254,BGI2,RET3,CX11254,CX11254,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-CX11254,ok,BGI3-RET3b-CX11254,BGI3,RET3b,CX11254,CX11254,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-CX11262,ok,BGI2-RET6-CX11262,BGI2,RET6,CX11262,CX11262,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-CX11262,ok,BGI3-RET6a-CX11262,BGI3,RET6a,CX11262,CX11262,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-CX11264,ok,BGI1-RET5-CX11264,BGI1,RET5,CX11264,CX11264,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-CX11264,ok,BGI2-RET5-CX11264,BGI2,RET5,CX11264,CX11264,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-CX11264,ok,BGI3-RET5a-CX11264,BGI3,RET5a,CX11264,CX11264,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA36_c099uac-CX11264,ok,Princeton-ECA36_c099uac-CX11264,Princeton,ECA36_c099uac,CX11264,CX11264,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-CX11264,ok,Princeton-ECA36_d0mbhac-CX11264,Princeton,ECA36_d0mbhac,CX11264,CX11264,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-CX11271,ok,BGI1-RET7-CX11271,BGI1,RET7,CX11271,CX11271,34.13712,-118.12532,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-CX11271,ok,BGI2-RET7-CX11271,BGI2,RET7,CX11271,CX11271,34.13712,-118.12532,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-CX11271,ok,BGI3-RET7a-CX11271,BGI3,RET7a,CX11271,CX11271,34.13712,-118.12532,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA40_d0ncdac-CX11271,ok,Princeton-ECA40_d0ncdac-CX11271,Princeton,ECA40_d0ncdac,CX11271,CX11271,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-CX11276,ok,BGI1-RET2-CX11276,BGI1,RET2,CX11276,CX11276,34.20111,-118.21198,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-CX11276,ok,BGI2-RET2-CX11276,BGI2,RET2,CX11276,CX11276,34.20111,-118.21198,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-CX11276,ok,BGI3-RET2b-CX11276,BGI3,RET2b,CX11276,CX11276,34.20111,-118.21198,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-CX11285,ok,BGI1-RET2-CX11285,BGI1,RET2,CX11285,CX11285,34.14331,-118.05496,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-CX11285,ok,BGI2-RET2-CX11285,BGI2,RET2,CX11285,CX11285,34.14331,-118.05496,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-CX11285,ok,BGI3-RET2a-CX11285,BGI3,RET2a,CX11285,CX11285,34.14331,-118.05496,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA34Pool_c099uac-CX11285,rename,Princeton-ECA34Pool_c099uac-CX11285,Princeton,ECA34Pool_c099uac,CX11285,CX11285,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-CX11285,rename,Princeton-ECA34Pool_d0mbhac-CX11285,Princeton,ECA34Pool_d0mbhac,CX11285,CX11285,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-CX11292,ok,BGI1-RET4-CX11292,BGI1,RET4,CX11292,CX11292,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-CX11292,ok,BGI2-RET4-CX11292,BGI2,RET4,CX11292,CX11292,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-CX11292,ok,BGI3-RET4b-CX11292,BGI3,RET4b,CX11292,CX11292,34.13531,-118.30582,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA35_c099uac-CX11292,ok,Princeton-ECA35_c099uac-CX11292,Princeton,ECA35_c099uac,CX11292,CX11292,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-CX11292,ok,Princeton-ECA35_d0mbhac-CX11292,Princeton,ECA35_d0mbhac,CX11292,CX11292,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-CX11307,ok,BGI1-RET5-CX11307,BGI1,RET5,CX11307,CX11307,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-CX11307,ok,BGI2-RET5-CX11307,BGI2,RET5,CX11307,CX11307,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-CX11307,ok,BGI3-RET5a-CX11307,BGI3,RET5a,CX11307,CX11307,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-CX11314,ok,BGI1-RET3-CX11314,BGI1,RET3,CX11314,CX11314,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-CX11314,ok,BGI2-RET3-CX11314,BGI2,RET3,CX11314,CX11314,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-CX11314,ok,BGI3-RET3b-CX11314,BGI3,RET3b,CX11314,CX11314,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-CX11315,ok,BGI1-RET1-CX11315,BGI1,RET1,CX11315,CX11315,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-CX11315,ok,BGI2-RET1-CX11315,BGI2,RET1,CX11315,CX11315,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-CX11315,ok,BGI3-RET1b-CX11315,BGI3,RET1b,CX11315,CX11315,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-DL200,ok,BGI1-RET4-DL200,BGI1,RET4,DL200,DL200,9.03,38.74,"Addis Ababa, Ethiopia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-DL200,ok,BGI2-RET4-DL200,BGI2,RET4,DL200,DL200,9.03,38.74,"Addis Ababa, Ethiopia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-DL200,ok,BGI3-RET4a-DL200,BGI3,RET4a,DL200,DL200,9.03,38.74,"Addis Ababa, Ethiopia",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-DL226,ok,BGI1-RET2-DL226,BGI1,RET2,DL226,DL226,44.5633,-123.2821,"Corvalis, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-DL226,ok,BGI2-RET2-DL226,BGI2,RET2,DL226,DL226,44.5633,-123.2821,"Corvalis, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-DL226,ok,BGI3-RET2b-DL226,BGI3,RET2b,DL226,DL226,44.5633,-123.2821,"Corvalis, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-DL238,ok,BGI1-RET1-DL238,BGI1,RET1,DL238,DL238,19.22,-155.82,"Manuka, HI",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-DL238,ok,BGI2-RET1-DL238,BGI2,RET1,DL238,DL238,19.22,-155.82,"Manuka, HI",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1a-DL238,ok,BGI3-RET1a-DL238,BGI3,RET1a,DL238,DL238,19.22,-155.82,"Manuka, HI",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-P-DL238,ok,Princeton-P-DL238,Princeton,P,DL238,DL238,19.22,-155.82,"Manuka, HI",,-10bp of end (low quality),,Tagmentation
+Princeton-ECA40_d0ncdac-DL238,ok,Princeton-ECA40_d0ncdac-DL238,Princeton,ECA40_d0ncdac,DL238,DL238,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34_c045gab-DL238,rename,Princeton-ECA34_c045gab-DL238,Princeton,ECA34_c045gab,DL238,DL238,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-ED3005,ok,BGI1-RET5-ED3005,BGI1,RET5,ED3005,ED3005,55.94,-3.36,"Edinburgh, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-ED3005,ok,BGI2-RET5-ED3005,BGI2,RET5,ED3005,ED3005,55.94,-3.36,"Edinburgh, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-ED3005,ok,BGI3-RET5a-ED3005,BGI3,RET5a,ED3005,ED3005,55.94,-3.36,"Edinburgh, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3021,ok,MMP-7028LAB_5-ED3021,MMP,7028LAB_5,ED3021,ED3005,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-B00B7AB_3-ED3021,ok,MMP-B00B7AB_3-ED3021,MMP,B00B7AB_3,ED3021,ED3005,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-C02D1AC_1-ED3021,ok,MMP-C02D1AC_1-ED3021,MMP,C02D1AC_1,ED3021,ED3005,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-D09NFAC_4-ED3021,ok,MMP-D09NFAC_4-ED3021,MMP,D09NFAC_4,ED3021,ED3005,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-D0A7EAC_1-ED3021,ok,MMP-D0A7EAC_1-ED3021,MMP,D0A7EAC_1,ED3021,ED3005,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+BGI1-RET3-ED3011,ok,BGI1-RET3-ED3011,BGI1,RET3,ED3011,ED3011,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-ED3011,ok,BGI2-RET3-ED3011,BGI2,RET3,ED3011,ED3011,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-ED3011,ok,BGI3-RET3a-ED3011,BGI3,RET3a,ED3011,ED3011,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-ED3012,ok,BGI1-RET6-ED3012,BGI1,RET6,ED3012,ED3012,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-ED3012,ok,BGI2-RET6-ED3012,BGI2,RET6,ED3012,ED3012,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-ED3012,ok,BGI3-RET6a-ED3012,BGI3,RET6a,ED3012,ED3012,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA37_d0ncdac-ED3012,rename,Princeton-ECA37_d0ncdac-ED3012,Princeton,ECA37_d0ncdac,ED3012,ED3012,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-ED3017,ok,BGI1-RET2-ED3017,BGI1,RET2,ED3017,ED3017,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-ED3017,ok,BGI2-RET2-ED3017,BGI2,RET2,ED3017,ED3017,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-ED3017,ok,BGI3-RET2a-ED3017,BGI3,RET2a,ED3017,ED3017,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3017,ok,MMP-7028LAB_5-ED3017,MMP,7028LAB_5,ED3017,ED3017,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-B00B7AB_3-ED3017,ok,MMP-B00B7AB_3-ED3017,MMP,B00B7AB_3,ED3017,ED3017,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-C02D1AC_1-ED3017,ok,MMP-C02D1AC_1-ED3017,MMP,C02D1AC_1,ED3017,ED3017,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-D09NFAC_4-ED3017,ok,MMP-D09NFAC_4-ED3017,MMP,D09NFAC_4,ED3017,ED3017,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+MMP-D0A7EAC_1-ED3017,ok,MMP-D0A7EAC_1-ED3017,MMP,D0A7EAC_1,ED3017,ED3017,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+Uchicago-L001-ED3017,ok,Uchicago-L001-ED3017,Uchicago,L001,ED3017,ED3017,55.92,-3.19,"Edinburgh, Scotland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA44_47-ED3017,rename,Princeton-ECA44_47-ED3017,Princeton,ECA44_47,ED3017,ED3017,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-ED3040,ok,BGI1-RET7-ED3040,BGI1,RET7,ED3040,ED3040,-26.1,28.01,"Johannesburg, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-ED3040,ok,BGI2-RET7-ED3040,BGI2,RET7,ED3040,ED3040,-26.1,28.01,"Johannesburg, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-ED3040,ok,BGI3-RET7a-ED3040,BGI3,RET7a,ED3040,ED3040,-26.1,28.01,"Johannesburg, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3040,ok,MMP-7028LAB_5-ED3040,MMP,7028LAB_5,ED3040,ED3040,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+MMP-B00B7AB_3-ED3040,ok,MMP-B00B7AB_3-ED3040,MMP,B00B7AB_3,ED3040,ED3040,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+MMP-C02D1AC_1-ED3040,ok,MMP-C02D1AC_1-ED3040,MMP,C02D1AC_1,ED3040,ED3040,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+MMP-D09NFAC_4-ED3040,ok,MMP-D09NFAC_4-ED3040,MMP,D09NFAC_4,ED3040,ED3040,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+MMP-D0A7EAC_1-ED3040,ok,MMP-D0A7EAC_1-ED3040,MMP,D0A7EAC_1,ED3040,ED3040,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+Princeton-ECA34Pool_c099uac-ED3040,rename,Princeton-ECA34Pool_c099uac-ED3040,Princeton,ECA34Pool_c099uac,ED3040,ED3040,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-ED3040,rename,Princeton-ECA34Pool_d0mbhac-ED3040,Princeton,ECA34Pool_d0mbhac,ED3040,ED3040,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-ED3046,ok,BGI1-RET2-ED3046,BGI1,RET2,ED3046,ED3046,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-ED3046,ok,BGI2-RET2-ED3046,BGI2,RET2,ED3046,ED3046,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-ED3046,ok,BGI3-RET2b-ED3046,BGI3,RET2b,ED3046,ED3046,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA35_c099uac-ED3046,ok,Princeton-ECA35_c099uac-ED3046,Princeton,ECA35_c099uac,ED3046,ED3046,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-ED3046,ok,Princeton-ECA35_d0mbhac-ED3046,Princeton,ECA35_d0mbhac,ED3046,ED3046,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-ED3048,ok,BGI1-RET4-ED3048,BGI1,RET4,ED3048,ED3048,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-ED3048,ok,BGI2-RET4-ED3048,BGI2,RET4,ED3048,ED3048,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-ED3048,ok,BGI3-RET4a-ED3048,BGI3,RET4a,ED3048,ED3048,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3042,ok,MMP-7028LAB_5-ED3042,MMP,7028LAB_5,ED3042,ED3048,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-B00B7AB_3-ED3042,ok,MMP-B00B7AB_3-ED3042,MMP,B00B7AB_3,ED3042,ED3048,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-C02D1AC_1-ED3042,ok,MMP-C02D1AC_1-ED3042,MMP,C02D1AC_1,ED3042,ED3048,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-D09NFAC_4-ED3042,ok,MMP-D09NFAC_4-ED3042,MMP,D09NFAC_4,ED3042,ED3048,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-D0A7EAC_1-ED3042,ok,MMP-D0A7EAC_1-ED3042,MMP,D0A7EAC_1,ED3042,ED3048,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+BGI1-RET1-ED3049,ok,BGI1-RET1-ED3049,BGI1,RET1,ED3049,ED3049,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-ED3049,ok,BGI2-RET1-ED3049,BGI2,RET1,ED3049,ED3049,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-ED3049,ok,BGI3-RET1b-ED3049,BGI3,RET1b,ED3049,ED3049,-33.22,19.19,"Ceres, South Africa","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3049,ok,MMP-7028LAB_5-ED3049,MMP,7028LAB_5,ED3049,ED3049,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+MMP-B00B7AB_3-ED3049,ok,MMP-B00B7AB_3-ED3049,MMP,B00B7AB_3,ED3049,ED3049,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+MMP-C02D1AC_1-ED3049,ok,MMP-C02D1AC_1-ED3049,MMP,C02D1AC_1,ED3049,ED3049,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+MMP-D09NFAC_4-ED3049,ok,MMP-D09NFAC_4-ED3049,MMP,D09NFAC_4,ED3049,ED3049,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+MMP-D0A7EAC_1-ED3049,ok,MMP-D0A7EAC_1-ED3049,MMP,D0A7EAC_1,ED3049,ED3049,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+Princeton-ECA36_c099uac-ED3049,ok,Princeton-ECA36_c099uac-ED3049,Princeton,ECA36_c099uac,ED3049,ED3049,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-ED3049,ok,Princeton-ECA36_d0mbhac-ED3049,Princeton,ECA36_d0mbhac,ED3049,ED3049,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-ED3052,ok,BGI1-RET5-ED3052,BGI1,RET5,ED3052,ED3052,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-ED3052,ok,BGI2-RET5-ED3052,BGI2,RET5,ED3052,ED3052,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-ED3052,ok,BGI3-RET5b-ED3052,BGI3,RET5b,ED3052,ED3052,-33.22,19.19,"Ceres, South Africa",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3052,ok,MMP-7028LAB_5-ED3052,MMP,7028LAB_5,ED3052,ED3052,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-B00B7AB_3-ED3052,ok,MMP-B00B7AB_3-ED3052,MMP,B00B7AB_3,ED3052,ED3052,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-C02D1AC_1-ED3052,ok,MMP-C02D1AC_1-ED3052,MMP,C02D1AC_1,ED3052,ED3052,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-D09NFAC_4-ED3052,ok,MMP-D09NFAC_4-ED3052,MMP,D09NFAC_4,ED3052,ED3052,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+MMP-D0A7EAC_1-ED3052,ok,MMP-D0A7EAC_1-ED3052,MMP,D0A7EAC_1,ED3052,ED3052,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+BGI1-RET4-ED3073,ok,BGI1-RET4-ED3073,BGI1,RET4,ED3073,ED3073,-1.05,36.39,"Limuru, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-ED3073,ok,BGI2-RET4-ED3073,BGI2,RET4,ED3073,ED3073,-1.05,36.39,"Limuru, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-ED3073,ok,BGI3-RET4a-ED3073,BGI3,RET4a,ED3073,ED3073,-1.05,36.39,"Limuru, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-ED3057,ok,MMP-7028LAB_5-ED3057,MMP,7028LAB_5,ED3057,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-B00B7AB_3-ED3057,ok,MMP-B00B7AB_3-ED3057,MMP,B00B7AB_3,ED3057,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-C02D1AC_1-ED3057,ok,MMP-C02D1AC_1-ED3057,MMP,C02D1AC_1,ED3057,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-D09NFAC_4-ED3057,ok,MMP-D09NFAC_4-ED3057,MMP,D09NFAC_4,ED3057,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-D0A7EAC_1-ED3057,ok,MMP-D0A7EAC_1-ED3057,MMP,D0A7EAC_1,ED3057,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-7028LAB_5-ED3072,ok,MMP-7028LAB_5-ED3072,MMP,7028LAB_5,ED3072,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-B00B7AB_3-ED3072,ok,MMP-B00B7AB_3-ED3072,MMP,B00B7AB_3,ED3072,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-C02D1AC_1-ED3072,ok,MMP-C02D1AC_1-ED3072,MMP,C02D1AC_1,ED3072,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-D09NFAC_4-ED3072,ok,MMP-D09NFAC_4-ED3072,MMP,D09NFAC_4,ED3072,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+MMP-D0A7EAC_1-ED3072,ok,MMP-D0A7EAC_1-ED3072,MMP,D0A7EAC_1,ED3072,ED3073,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+Princeton-ECA37_d0ncdac-ED3073,rename,Princeton-ECA37_d0ncdac-ED3073,Princeton,ECA37_d0ncdac,ED3073,ED3073,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-ED3077,ok,BGI1-RET7-ED3077,BGI1,RET7,ED3077,ED3077,NA,NA,"Nairobi, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-ED3077,ok,BGI2-RET7-ED3077,BGI2,RET7,ED3077,ED3077,NA,NA,"Nairobi, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-ED3077,ok,BGI3-RET7a-ED3077,BGI3,RET7a,ED3077,ED3077,NA,NA,"Nairobi, Kenya",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA44_47-ED3077,rename,Princeton-ECA44_47-ED3077,Princeton,ECA44_47,ED3077,ED3077,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-EG4347,ok,BGI1-RET3-EG4347,BGI1,RET3,EG4347,EG4347,44.04789,-123.07108,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-EG4347,ok,BGI2-RET3-EG4347,BGI2,RET3,EG4347,EG4347,44.04789,-123.07108,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-EG4347,ok,BGI3-RET3a-EG4347,BGI3,RET3a,EG4347,EG4347,44.04789,-123.07108,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.4-EG4347,ok,Rockman096-R096.4-EG4347,Rockman096,R096.4,EG4347,EG4347,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI2-RET6-EG4349,ok,BGI2-RET6-EG4349,BGI2,RET6,EG4349,EG4349,40.771467,-111.87316,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-EG4349,ok,BGI3-RET6a-EG4349,BGI3,RET6a,EG4349,EG4349,40.771467,-111.87316,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.2-EG4348,ok,Rockman096-R096.2-EG4348,Rockman096,R096.2,EG4348,EG4349,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-EG4724,ok,BGI1-RET5-EG4724,BGI1,RET5,EG4724,EG4724,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-EG4724,ok,BGI2-RET5-EG4724,BGI2,RET5,EG4724,EG4724,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-EG4724,ok,BGI3-RET5a-EG4724,BGI3,RET5a,EG4724,EG4724,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA39_d0ncdac-EG4724,ok,Princeton-ECA39_d0ncdac-EG4724,Princeton,ECA39_d0ncdac,EG4724,EG4724,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECAmp_c0g61ac-EG4724,ok,Princeton-ECAmp_c0g61ac-EG4724,Princeton,ECAmp_c0g61ac,EG4724,EG4724,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA37_d0ncdac-EG4724,rename,Princeton-ECA37_d0ncdac-EG4724,Princeton,ECA37_d0ncdac,EG4724,EG4724,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-EG4725,ok,BGI1-RET2-EG4725,BGI1,RET2,EG4725,EG4725,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-EG4725,ok,BGI2-RET2-EG4725,BGI2,RET2,EG4725,EG4725,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-EG4725,ok,BGI3-RET2a-EG4725,BGI3,RET2a,EG4725,EG4725,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L001-EG4725,ok,Uchicago-L001-EG4725,Uchicago,L001,EG4725,EG4725,41.628771,-8.347617,"Amares, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA39_d0ncdac-EG4725,ok,Princeton-ECA39_d0ncdac-EG4725,Princeton,ECA39_d0ncdac,EG4725,EG4725,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-EG4946,ok,BGI1-RET7-EG4946,BGI1,RET7,EG4946,EG4946,40.72596,-111.82184,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-EG4946,ok,BGI2-RET7-EG4946,BGI2,RET7,EG4946,EG4946,40.72596,-111.82184,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-EG4946,ok,BGI3-RET7a-EG4946,BGI3,RET7a,EG4946,EG4946,40.72596,-111.82184,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA34Pool_c099uac-EG4946,rename,Princeton-ECA34Pool_c099uac-EG4946,Princeton,ECA34Pool_c099uac,EG4946,EG4946,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-EG4946,rename,Princeton-ECA34Pool_d0mbhac-EG4946,Princeton,ECA34Pool_d0mbhac,EG4946,EG4946,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-GXW1,ok,BGI1-RET6-GXW1,BGI1,RET6,GXW1,GXW1,30.542889,114.419828,"Wuhan City, China",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-GXW1,ok,BGI2-RET6-GXW1,BGI2,RET6,GXW1,GXW1,30.542889,114.419828,"Wuhan City, China",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-GXW1,ok,BGI3-RET6b-GXW1,BGI3,RET6b,GXW1,GXW1,30.542889,114.419828,"Wuhan City, China",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-GXW1,ok,MMP-7028LAB_5-GXW1,MMP,7028LAB_5,GXW1,GXW1,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+MMP-B00B7AB_3-GXW1,ok,MMP-B00B7AB_3-GXW1,MMP,B00B7AB_3,GXW1,GXW1,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+MMP-C02D1AC_1-GXW1,ok,MMP-C02D1AC_1-GXW1,MMP,C02D1AC_1,GXW1,GXW1,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+MMP-D09NFAC_4-GXW1,ok,MMP-D09NFAC_4-GXW1,MMP,D09NFAC_4,GXW1,GXW1,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+MMP-D0A7EAC_1-GXW1,ok,MMP-D0A7EAC_1-GXW1,MMP,D0A7EAC_1,GXW1,GXW1,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+Princeton-ECA30_c02hkac-GXW1,ok,Princeton-ECA30_c02hkac-GXW1,Princeton,ECA30_c02hkac,GXW1,GXW1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-GXW1,ok,Princeton-ECA30_c03b2ab-GXW1,Princeton,ECA30_c03b2ab,GXW1,GXW1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-JT11398,ok,BGI1-RET2-JT11398,BGI1,RET2,JT11398,JT11398,47.763944,-122.275484,"Lake Forest Park, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JT11398,ok,BGI2-RET2-JT11398,BGI2,RET2,JT11398,JT11398,47.763944,-122.275484,"Lake Forest Park, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-JT11398,ok,BGI3-RET2a-JT11398,BGI3,RET2a,JT11398,JT11398,47.763944,-122.275484,"Lake Forest Park, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-JT11398,ok,Uchicago-L002-JT11398,Uchicago,L002,JT11398,JT11398,47.763944,-122.275484,"Lake Forest Park, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU1088,ok,BGI1-RET3-JU1088,BGI1,RET3,JU1088,JU1088,34.7613,138.0149,"Kakegawa, Japan","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU1088,ok,BGI2-RET3-JU1088,BGI2,RET3,JU1088,JU1088,34.7613,138.0149,"Kakegawa, Japan","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-JU1088,ok,BGI3-RET3b-JU1088,BGI3,RET3b,JU1088,JU1088,34.7613,138.0149,"Kakegawa, Japan","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU1088,ok,MMP-7028LAB_5-JU1088,MMP,7028LAB_5,JU1088,JU1088,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+MMP-B00B7AB_3-JU1088,ok,MMP-B00B7AB_3-JU1088,MMP,B00B7AB_3,JU1088,JU1088,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+MMP-C02D1AC_1-JU1088,ok,MMP-C02D1AC_1-JU1088,MMP,C02D1AC_1,JU1088,JU1088,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+MMP-D09NFAC_4-JU1088,ok,MMP-D09NFAC_4-JU1088,MMP,D09NFAC_4,JU1088,JU1088,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+MMP-D0A7EAC_1-JU1088,ok,MMP-D0A7EAC_1-JU1088,MMP,D0A7EAC_1,JU1088,JU1088,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+Rockman096-R096.4-JU1088,ok,Rockman096-R096.4-JU1088,Rockman096,R096.4,JU1088,JU1088,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-JU1172,ok,BGI1-RET4-JU1172,BGI1,RET4,JU1172,JU1172,-36.87,-73.04,"Concepcion, Chile","Isolated from a sample of soil (compost) in a pot with rotting tomatoes collected in April 2007 in Concepcion, Chile, in the Villuco area, 3 km SE of the town.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU1172,ok,BGI2-RET4-JU1172,BGI2,RET4,JU1172,JU1172,-36.87,-73.04,"Concepcion, Chile","Isolated from a sample of soil (compost) in a pot with rotting tomatoes collected in April 2007 in Concepcion, Chile, in the Villuco area, 3 km SE of the town.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU1172,ok,BGI3-RET4b-JU1172,BGI3,RET4b,JU1172,JU1172,-36.87,-73.04,"Concepcion, Chile","Isolated from a sample of soil (compost) in a pot with rotting tomatoes collected in April 2007 in Concepcion, Chile, in the Villuco area, 3 km SE of the town.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-JU1200,ok,BGI1-RET2-JU1200,BGI1,RET2,JU1200,JU1200,55.577,-4.6,"Dundonald, United Kingdom",Isolated by Tony Page from a compost heap sample recovered on 1 Aug 2007 in SouthWest Scotland 4°36.0’ West 55°34.6’ North.,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JU1200,ok,BGI2-RET2-JU1200,BGI2,RET2,JU1200,JU1200,55.577,-4.6,"Dundonald, United Kingdom",Isolated by Tony Page from a compost heap sample recovered on 1 Aug 2007 in SouthWest Scotland 4°36.0’ West 55°34.6’ North.,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-JU1200,ok,BGI3-RET2a-JU1200,BGI3,RET2a,JU1200,JU1200,55.577,-4.6,"Dundonald, United Kingdom",Isolated by Tony Page from a compost heap sample recovered on 1 Aug 2007 in SouthWest Scotland 4°36.0’ West 55°34.6’ North.,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA40_d0ncdac-JU1200,ok,Princeton-ECA40_d0ncdac-JU1200,Princeton,ECA40_d0ncdac,JU1200,JU1200,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECAmp_c0g61ac-JU1200,ok,Princeton-ECAmp_c0g61ac-JU1200,Princeton,ECAmp_c0g61ac,JU1200,JU1200,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA37_d0ncdac-JU1200,rename,Princeton-ECA37_d0ncdac-JU1200,Princeton,ECA37_d0ncdac,JU1200,JU1200,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-JU1212,ok,BGI1-RET6-JU1212,BGI1,RET6,JU1212,JU1212,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting arum stem collected on 24 Sep 07 behind the water reservoir in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-JU1212,ok,BGI2-RET6-JU1212,BGI2,RET6,JU1212,JU1212,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting arum stem collected on 24 Sep 07 behind the water reservoir in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-JU1212,ok,BGI3-RET6a-JU1212,BGI3,RET6a,JU1212,JU1212,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting arum stem collected on 24 Sep 07 behind the water reservoir in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-JU1213,ok,BGI1-RET5-JU1213,BGI1,RET5,JU1213,JU1213,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting apple collected on 24 Sep 07 in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU1213,ok,BGI2-RET5-JU1213,BGI2,RET5,JU1213,JU1213,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting apple collected on 24 Sep 07 in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-JU1213,ok,BGI3-RET5a-JU1213,BGI3,RET5a,JU1213,JU1213,48.71,-3.81,"Primel TrÃ©gastel, France","Isolated by MAF from a rotting apple collected on 24 Sep 07 in Primel, France. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU533,ok,MMP-7028LAB_5-JU533,MMP,7028LAB_5,JU533,JU1213,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+MMP-B00B7AB_3-JU533,ok,MMP-B00B7AB_3-JU533,MMP,B00B7AB_3,JU533,JU1213,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+MMP-C02D1AC_1-JU533,ok,MMP-C02D1AC_1-JU533,MMP,C02D1AC_1,JU533,JU1213,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+MMP-D09NFAC_4-JU533,ok,MMP-D09NFAC_4-JU533,MMP,D09NFAC_4,JU533,JU1213,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+MMP-D0A7EAC_1-JU533,ok,MMP-D0A7EAC_1-JU533,MMP,D0A7EAC_1,JU533,JU1213,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+BGI1-RET4-JU1242,ok,BGI1-RET4-JU1242,BGI1,RET4,JU1242,JU1242,49.1269,1.9595,"Santeuil, France","Isolated from a small black slug collected in Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07 below the apple tree with apples #6&7. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU1242,ok,BGI2-RET4-JU1242,BGI2,RET4,JU1242,JU1242,49.1269,1.9595,"Santeuil, France","Isolated from a small black slug collected in Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07 below the apple tree with apples #6&7. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU1242,ok,BGI3-RET4b-JU1242,BGI3,RET4b,JU1242,JU1242,49.1269,1.9595,"Santeuil, France","Isolated from a small black slug collected in Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07 below the apple tree with apples #6&7. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU1246,ok,BGI1-RET3-JU1246,BGI1,RET3,JU1246,JU1246,49.12618,1.96152,"Santeuil, France","Isolated from a rotting apple (#14) collected above Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07. Egl adult on 15 Oct. Bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU1246,ok,BGI2-RET3-JU1246,BGI2,RET3,JU1246,JU1246,49.12618,1.96152,"Santeuil, France","Isolated from a rotting apple (#14) collected above Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07. Egl adult on 15 Oct. Bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-JU1246,ok,BGI3-RET3b-JU1246,BGI3,RET3b,JU1246,JU1246,49.12618,1.96152,"Santeuil, France","Isolated from a rotting apple (#14) collected above Santeuil, Viosne valley, Val d’Oise, on 14 Oct 07. Egl adult on 15 Oct. Bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-JU1395,ok,BGI2-RET6-JU1395,BGI2,RET6,JU1395,JU1395,47.2199,0.04619,"Saut-aux-Loups, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-JU1395,ok,BGI3-RET6a-JU1395,BGI3,RET6a,JU1395,JU1395,47.2199,0.04619,"Saut-aux-Loups, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-JU1400,ok,BGI1-RET4-JU1400,BGI1,RET4,JU1400,JU1400,37.3845,-5.988,"Sevilla, Spain","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU1400,ok,BGI2-RET4-JU1400,BGI2,RET4,JU1400,JU1400,37.3845,-5.988,"Sevilla, Spain","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-JU1400,ok,BGI3-RET4a-JU1400,BGI3,RET4a,JU1400,JU1400,37.3845,-5.988,"Sevilla, Spain","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU1400,ok,MMP-7028LAB_5-JU1400,MMP,7028LAB_5,JU1400,JU1400,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+MMP-B00B7AB_3-JU1400,ok,MMP-B00B7AB_3-JU1400,MMP,B00B7AB_3,JU1400,JU1400,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+MMP-C02D1AC_1-JU1400,ok,MMP-C02D1AC_1-JU1400,MMP,C02D1AC_1,JU1400,JU1400,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+MMP-D09NFAC_4-JU1400,ok,MMP-D09NFAC_4-JU1400,MMP,D09NFAC_4,JU1400,JU1400,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+MMP-D0A7EAC_1-JU1400,ok,MMP-D0A7EAC_1-JU1400,MMP,D0A7EAC_1,JU1400,JU1400,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+Princeton-ECA33_c045gab-JU1400,rename,Princeton-ECA33_c045gab-JU1400,Princeton,ECA33_c045gab,JU1400,JU1400,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-JU1409,ok,BGI1-RET5-JU1409,BGI1,RET5,JU1409,JU1409,37.468,-5.637,"Carmona, Spain",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU1409,ok,BGI2-RET5-JU1409,BGI2,RET5,JU1409,JU1409,37.468,-5.637,"Carmona, Spain",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-JU1409,ok,BGI3-RET5a-JU1409,BGI3,RET5a,JU1409,JU1409,37.468,-5.637,"Carmona, Spain",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU1401,ok,MMP-7028LAB_5-JU1401,MMP,7028LAB_5,JU1401,JU1409,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+MMP-B00B7AB_3-JU1401,ok,MMP-B00B7AB_3-JU1401,MMP,B00B7AB_3,JU1401,JU1409,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+MMP-C02D1AC_1-JU1401,ok,MMP-C02D1AC_1-JU1401,MMP,C02D1AC_1,JU1401,JU1409,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+MMP-D09NFAC_4-JU1401,ok,MMP-D09NFAC_4-JU1401,MMP,D09NFAC_4,JU1401,JU1409,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+MMP-D0A7EAC_1-JU1401,ok,MMP-D0A7EAC_1-JU1401,MMP,D0A7EAC_1,JU1401,JU1409,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+Princeton-ECA41_d0ncdac-JU1409,ok,Princeton-ECA41_d0ncdac-JU1409,Princeton,ECA41_d0ncdac,JU1409,JU1409,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-EA68-JU1409,rename,Princeton-EA68-JU1409,Princeton,EA68,JU1409,JU1409,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI2-RET6-JU1440,ok,BGI2-RET6-JU1440,BGI2,RET6,JU1440,JU1440,41.41307,2.15231,"Barcelona, Spain","Isolated from rotting palm fruit sampled by MAF on 9 June 2008 in the Park Guëll, Barcelona, Spain. Picked as young adult on 11 June 2008.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-JU1440,ok,BGI3-RET6a-JU1440,BGI3,RET6a,JU1440,JU1440,41.41307,2.15231,"Barcelona, Spain","Isolated from rotting palm fruit sampled by MAF on 9 June 2008 in the Park Guëll, Barcelona, Spain. Picked as young adult on 11 June 2008.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L001-JU1440,ok,Uchicago-L001-JU1440,Uchicago,L001,JU1440,JU1440,41.41307,2.15231,"Barcelona, Spain","Isolated from rotting palm fruit sampled by MAF on 9 June 2008 in the Park Guëll, Barcelona, Spain. Picked as young adult on 11 June 2008.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU1491,ok,BGI1-RET3-JU1491,BGI1,RET3,JU1491,JU1491,46.63,1.06,"Le Blanc, France","Isolated from rotting Arum maculata stems sampled on 17 Aug 2008 by MAF in woods near Le Blanc (Indre, France). Plated on 18 Aug, picked as a L4 larva on 18 Aug.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU1491,ok,BGI2-RET3-JU1491,BGI2,RET3,JU1491,JU1491,46.63,1.06,"Le Blanc, France","Isolated from rotting Arum maculata stems sampled on 17 Aug 2008 by MAF in woods near Le Blanc (Indre, France). Plated on 18 Aug, picked as a L4 larva on 18 Aug.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-JU1491,ok,BGI3-RET3a-JU1491,BGI3,RET3a,JU1491,JU1491,46.63,1.06,"Le Blanc, France","Isolated from rotting Arum maculata stems sampled on 17 Aug 2008 by MAF in woods near Le Blanc (Indre, France). Plated on 18 Aug, picked as a L4 larva on 18 Aug.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA35_c099uac-JU1491,ok,Princeton-ECA35_c099uac-JU1491,Princeton,ECA35_c099uac,JU1491,JU1491,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-JU1491,ok,Princeton-ECA35_d0mbhac-JU1491,Princeton,ECA35_d0mbhac,JU1491,JU1491,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-JU1530,ok,BGI1-RET7-JU1530,BGI1,RET7,JU1530,JU1530,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O21 (tree “Wealthy”, like O20), sampled in the Orsay orchard on 9 Sep 2008 ca. 14:00, plated ca. 18:00, picked as adult ca. 20:00.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU1530,ok,BGI2-RET7-JU1530,BGI2,RET7,JU1530,JU1530,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O21 (tree “Wealthy”, like O20), sampled in the Orsay orchard on 9 Sep 2008 ca. 14:00, plated ca. 18:00, picked as adult ca. 20:00.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-JU1530,ok,BGI3-RET7b-JU1530,BGI3,RET7b,JU1530,JU1530,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O21 (tree “Wealthy”, like O20), sampled in the Orsay orchard on 9 Sep 2008 ca. 14:00, plated ca. 18:00, picked as adult ca. 20:00.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA36_c099uac-JU1530,ok,Princeton-ECA36_c099uac-JU1530,Princeton,ECA36_c099uac,JU1530,JU1530,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-JU1530,ok,Princeton-ECA36_d0mbhac-JU1530,Princeton,ECA36_d0mbhac,JU1530,JU1530,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-JU1568,ok,BGI1-RET5-JU1568,BGI1,RET5,JU1568,JU1568,48.8092,2.3862,"Ivry-sur-Seine, France","Isolated from a rotting Petasites stem (#I5) in Ivry-sur-Seine (Val de Marne), France, sampled on 5 Oct 2008. Plated on 6 Oct.Isolated as an adult on 6 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU1568,ok,BGI2-RET5-JU1568,BGI2,RET5,JU1568,JU1568,48.8092,2.3862,"Ivry-sur-Seine, France","Isolated from a rotting Petasites stem (#I5) in Ivry-sur-Seine (Val de Marne), France, sampled on 5 Oct 2008. Plated on 6 Oct.Isolated as an adult on 6 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-JU1568,ok,BGI3-RET5a-JU1568,BGI3,RET5a,JU1568,JU1568,48.8092,2.3862,"Ivry-sur-Seine, France","Isolated from a rotting Petasites stem (#I5) in Ivry-sur-Seine (Val de Marne), France, sampled on 5 Oct 2008. Plated on 6 Oct.Isolated as an adult on 6 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-JU1580,ok,BGI1-RET1-JU1580,BGI1,RET1,JU1580,JU1580,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O87 (Calville Rouge d’Oullins) sampled by MAF in the Orsay (Essonne, France) orchard on 6 Oct 2008. Plated on 6 Oct, isolated as a L4 on 7 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-JU1580,ok,BGI2-RET1-JU1580,BGI2,RET1,JU1580,JU1580,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O87 (Calville Rouge d’Oullins) sampled by MAF in the Orsay (Essonne, France) orchard on 6 Oct 2008. Plated on 6 Oct, isolated as a L4 on 7 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-JU1580,ok,BGI3-RET1b-JU1580,BGI3,RET1b,JU1580,JU1580,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O87 (Calville Rouge d’Oullins) sampled by MAF in the Orsay (Essonne, France) orchard on 6 Oct 2008. Plated on 6 Oct, isolated as a L4 on 7 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA34Pool_c099uac-JU1580,rename,Princeton-ECA34Pool_c099uac-JU1580,Princeton,ECA34Pool_c099uac,JU1580,JU1580,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34Pool_d0mbhac-JU1580,rename,Princeton-ECA34Pool_d0mbhac-JU1580,Princeton,ECA34Pool_d0mbhac,JU1580,JU1580,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-JU1581,ok,BGI1-RET6-JU1581,BGI1,RET6,JU1581,JU1581,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O134 (Calville d’Août) sampled by MAF in the Orsay (Essonne, France) orchard on 23 Oct 2008. Plated on 23 Oct, picked as a L2d on 23 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-JU1581,ok,BGI2-RET6-JU1581,BGI2,RET6,JU1581,JU1581,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O134 (Calville d’Août) sampled by MAF in the Orsay (Essonne, France) orchard on 23 Oct 2008. Plated on 23 Oct, picked as a L2d on 23 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-JU1581,ok,BGI3-RET6b-JU1581,BGI3,RET6b,JU1581,JU1581,48.7015,2.1725,"Orsay, France","Isolated from rotting apple O134 (Calville d’Août) sampled by MAF in the Orsay (Essonne, France) orchard on 23 Oct 2008. Plated on 23 Oct, picked as a L2d on 23 Oct.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-JU1516,ok,BGI1-RET4-JU1516,BGI1,RET4,JU1516,JU1581,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O13 (ca. 10 m from O11), sampled in the Orsay orchard on 9 Sep 2008 ca. 13:00, plated ca. 18:00, picked as adult on 10 Sep.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU1516,ok,BGI2-RET4-JU1516,BGI2,RET4,JU1516,JU1581,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O13 (ca. 10 m from O11), sampled in the Orsay orchard on 9 Sep 2008 ca. 13:00, plated ca. 18:00, picked as adult on 10 Sep.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU1516,ok,BGI3-RET4b-JU1516,BGI3,RET4b,JU1516,JU1581,48.7015,2.1725,"Orsay, France","Isolated from a rotting apple O13 (ca. 10 m from O11), sampled in the Orsay orchard on 9 Sep 2008 ca. 13:00, plated ca. 18:00, picked as adult on 10 Sep.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-JU1516,ok,Princeton-ECA31_c02hkac-JU1516,Princeton,ECA31_c02hkac,JU1516,JU1581,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-JU1516,ok,Princeton-ECA31_c03b2ab-JU1516,Princeton,ECA31_c03b2ab,JU1516,JU1581,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_c099uac-JU1581,ok,Princeton-ECA35_c099uac-JU1581,Princeton,ECA35_c099uac,JU1581,JU1581,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA35_d0mbhac-JU1581,ok,Princeton-ECA35_d0mbhac-JU1581,Princeton,ECA35_d0mbhac,JU1581,JU1581,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-JU1586,ok,BGI1-RET3-JU1586,BGI1,RET3,JU1586,JU1586,46.63,1.06,"Le Blanc, France","Isolated from rotting grape puree sampled in Le Blanc (Indre), France on 3 Nov 2008. Plated 3 Nov 2008, isolated as adult on 5 Nov.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU1586,ok,BGI2-RET3-JU1586,BGI2,RET3,JU1586,JU1586,46.63,1.06,"Le Blanc, France","Isolated from rotting grape puree sampled in Le Blanc (Indre), France on 3 Nov 2008. Plated 3 Nov 2008, isolated as adult on 5 Nov.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-JU1586,ok,BGI3-RET3a-JU1586,BGI3,RET3a,JU1586,JU1586,46.63,1.06,"Le Blanc, France","Isolated from rotting grape puree sampled in Le Blanc (Indre), France on 3 Nov 2008. Plated 3 Nov 2008, isolated as adult on 5 Nov.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA36_c099uac-JU1586,ok,Princeton-ECA36_c099uac-JU1586,Princeton,ECA36_c099uac,JU1586,JU1586,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-JU1586,ok,Princeton-ECA36_d0mbhac-JU1586,Princeton,ECA36_d0mbhac,JU1586,JU1586,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-JU1652,ok,BGI1-RET7-JU1652,BGI1,RET7,JU1652,JU1652,-34.86,-56.19,"Montevideo, Uruguay","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU1652,ok,BGI2-RET7-JU1652,BGI2,RET7,JU1652,JU1652,-34.86,-56.19,"Montevideo, Uruguay","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-JU1652,ok,BGI3-RET7b-JU1652,BGI3,RET7b,JU1652,JU1652,-34.86,-56.19,"Montevideo, Uruguay","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU1652,ok,MMP-7028LAB_5-JU1652,MMP,7028LAB_5,JU1652,JU1652,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+MMP-B00B7AB_3-JU1652,ok,MMP-B00B7AB_3-JU1652,MMP,B00B7AB_3,JU1652,JU1652,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+MMP-C02D1AC_1-JU1652,ok,MMP-C02D1AC_1-JU1652,MMP,C02D1AC_1,JU1652,JU1652,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+MMP-D09NFAC_4-JU1652,ok,MMP-D09NFAC_4-JU1652,MMP,D09NFAC_4,JU1652,JU1652,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+MMP-D0A7EAC_1-JU1652,ok,MMP-D0A7EAC_1-JU1652,MMP,D0A7EAC_1,JU1652,JU1652,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+BGI1-RET4-JU1896,ok,BGI1-RET4-JU1896,BGI1,RET4,JU1896,JU1896,37.999722,23.749673,"Athens, Greece","Collected on 2 Jan 10 from rotten olives in Athens, Greece. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU1896,ok,BGI2-RET4-JU1896,BGI2,RET4,JU1896,JU1896,37.999722,23.749673,"Athens, Greece","Collected on 2 Jan 10 from rotten olives in Athens, Greece. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-JU1896,ok,BGI3-RET4a-JU1896,BGI3,RET4a,JU1896,JU1896,37.999722,23.749673,"Athens, Greece","Collected on 2 Jan 10 from rotten olives in Athens, Greece. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA34_c045gab-JU1896,rename,Princeton-ECA34_c045gab-JU1896,Princeton,ECA34_c045gab,JU1896,JU1896,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI2-RET6-JU2001,ok,BGI2-RET6-JU2001,BGI2,RET6,JU2001,JU2001,-21.1,55.5,La RÃ¨union,Sampled in La Réunion in Sep 2010 by Tony Belicard,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-JU2001,ok,BGI3-RET6b-JU2001,BGI3,RET6b,JU2001,JU2001,-21.1,55.5,La RÃ¨union,Sampled in La Réunion in Sep 2010 by Tony Belicard,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-JU2001,ok,Princeton-ECA30_c02hkac-JU2001,Princeton,ECA30_c02hkac,JU2001,JU2001,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-JU2001,ok,Princeton-ECA30_c03b2ab-JU2001,Princeton,ECA30_c03b2ab,JU2001,JU2001,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-JU2007,ok,BGI1-RET3-JU2007,BGI1,RET3,JU2007,JU2007,50.6,-1.3,"Cowes, Isle of Wight, UK","Wild strain isolated by Michalis Barkoulas in Cowes, Isle of Wight, UK from rotten apples. Oct 2010",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU2007,ok,BGI2-RET3-JU2007,BGI2,RET3,JU2007,JU2007,50.6,-1.3,"Cowes, Isle of Wight, UK","Wild strain isolated by Michalis Barkoulas in Cowes, Isle of Wight, UK from rotten apples. Oct 2010",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-JU2007,ok,BGI3-RET3b-JU2007,BGI3,RET3b,JU2007,JU2007,50.6,-1.3,"Cowes, Isle of Wight, UK","Wild strain isolated by Michalis Barkoulas in Cowes, Isle of Wight, UK from rotten apples. Oct 2010",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-JU2007,ok,Princeton-ECA31_c02hkac-JU2007,Princeton,ECA31_c02hkac,JU2007,JU2007,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-JU2007,ok,Princeton-ECA31_c03b2ab-JU2007,Princeton,ECA31_c03b2ab,JU2007,JU2007,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Uchicago-L001-JU2464,ok,Uchicago-L001-JU2464,Uchicago,L001,JU2464,JU2464,-13.155,-72.525,"Aguas Calientes, Peru","From a rotting fleshy fruit collected by Ludmilla Lokmane in Aguas Calientes (Peru; -13.156022, -72.52402) in Jan 2013. Isolated by Lise Frézal from an adult isolated on 9 Jan 2013.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-JU2467,ok,Uchicago-L002-JU2467,Uchicago,L002,JU2467,JU2464,-13.155,-72.525,"Aguas Calientes, Peru","From a rotting fleshy fruit collected by Ludmilla Lokmane in Aguas Calientes (Peru; -13.156022, -72.52402) in Jan 2013. Isolated by Lise Frézal.  Line started from an adult on 9 Jan 2013.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-JU2468,ok,Uchicago-L002-JU2468,Uchicago,L002,JU2468,JU2464,-13.155,-72.525,"Aguas Calientes, Peru","From a rotting fleshy fruit collected by Ludmilla Lokmane in Aguas Calientes (Peru; -13.156022, -72.52402) in Jan 2013. Isolated by Lise Frézal from an adult on 9 Jan 2013.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-JU258,ok,BGI1-RET1-JU258,BGI1,RET1,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-JU258,ok,BGI2-RET1-JU258,BGI2,RET1,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1a-JU258,ok,BGI3-RET1a-JU258,BGI3,RET1a,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU258,ok,MMP-7028LAB_5-JU258,MMP,7028LAB_5,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+MMP-B00B7AB_3-JU258,ok,MMP-B00B7AB_3-JU258,MMP,B00B7AB_3,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+MMP-C02D1AC_1-JU258,ok,MMP-C02D1AC_1-JU258,MMP,C02D1AC_1,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+MMP-D09NFAC_4-JU258,ok,MMP-D09NFAC_4-JU258,MMP,D09NFAC_4,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+MMP-D0A7EAC_1-JU258,ok,MMP-D0A7EAC_1-JU258,MMP,D0A7EAC_1,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+Princeton-P-JU258,ok,Princeton-P-JU258,Princeton,P,JU258,JU258,32.73,-16.89,"Ribeiro Frio, Madeira","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",-10bp of end (low quality),,Tagmentation
+BGI1-RET4-JU310,ok,BGI1-RET4-JU310,BGI1,RET4,JU310,JU310,46.63,1.06,"Le Blanc, France","Le Blanc, Indre, France - vegetable garden compost pile, 25 Aug 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU310,ok,BGI2-RET4-JU310,BGI2,RET4,JU310,JU310,46.63,1.06,"Le Blanc, France","Le Blanc, Indre, France - vegetable garden compost pile, 25 Aug 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU310,ok,BGI3-RET4b-JU310,BGI3,RET4b,JU310,JU310,46.63,1.06,"Le Blanc, France","Le Blanc, Indre, France - vegetable garden compost pile, 25 Aug 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU263,ok,MMP-7028LAB_5-JU263,MMP,7028LAB_5,JU263,JU310,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+MMP-B00B7AB_3-JU263,ok,MMP-B00B7AB_3-JU263,MMP,B00B7AB_3,JU263,JU310,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+MMP-C02D1AC_1-JU263,ok,MMP-C02D1AC_1-JU263,MMP,C02D1AC_1,JU263,JU310,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+MMP-D09NFAC_4-JU263,ok,MMP-D09NFAC_4-JU263,MMP,D09NFAC_4,JU263,JU310,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+MMP-D0A7EAC_1-JU263,ok,MMP-D0A7EAC_1-JU263,MMP,D0A7EAC_1,JU263,JU310,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+MMP-7028LAB_5-JU300,ok,MMP-7028LAB_5-JU300,MMP,7028LAB_5,JU300,JU310,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+MMP-B00B7AB_3-JU300,ok,MMP-B00B7AB_3-JU300,MMP,B00B7AB_3,JU300,JU310,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+MMP-C02D1AC_1-JU300,ok,MMP-C02D1AC_1-JU300,MMP,C02D1AC_1,JU300,JU310,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+MMP-D09NFAC_4-JU300,ok,MMP-D09NFAC_4-JU300,MMP,D09NFAC_4,JU300,JU310,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+MMP-D0A7EAC_1-JU300,ok,MMP-D0A7EAC_1-JU300,MMP,D0A7EAC_1,JU300,JU310,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+Princeton-ECA39_d0ncdac-JU310,ok,Princeton-ECA39_d0ncdac-JU310,Princeton,ECA39_d0ncdac,JU310,JU310,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECAmp_c0g61ac-JU310,ok,Princeton-ECAmp_c0g61ac-JU310,Princeton,ECAmp_c0g61ac,JU310,JU310,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA37_d0ncdac-JU310,rename,Princeton-ECA37_d0ncdac-JU310,Princeton,ECA37_d0ncdac,JU310,JU310,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-JU311,ok,BGI1-RET5-JU311,BGI1,RET5,JU311,JU311,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+Wash from snail tube - snails coming from under a tree full of ivy",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU311,ok,BGI2-RET5-JU311,BGI2,RET5,JU311,JU311,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+Wash from snail tube - snails coming from under a tree full of ivy",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-JU311,ok,BGI3-RET5b-JU311,BGI3,RET5b,JU311,JU311,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+Wash from snail tube - snails coming from under a tree full of ivy",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU315,ok,BGI1-RET3-JU315,BGI1,RET3,JU315,JU311,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+From Pomatias elegans (?) snails.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU315,ok,BGI2-RET3-JU315,BGI2,RET3,JU315,JU311,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+From Pomatias elegans (?) snails.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-JU315,ok,BGI3-RET3b-JU315,BGI3,RET3b,JU315,JU311,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+From Pomatias elegans (?) snails.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-JU315,ok,Princeton-ECA30_c02hkac-JU315,Princeton,ECA30_c02hkac,JU315,JU311,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-JU315,ok,Princeton-ECA30_c03b2ab-JU315,Princeton,ECA30_c03b2ab,JU315,JU311,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Rockman083-R083.8-JU319,ok,Rockman083-R083.8-JU319,Rockman083,R083.8,JU319,JU311,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-JU323,ok,BGI1-RET7-JU323,BGI1,RET7,JU323,JU323,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #3 on the trunk of a mulberry tree (not the same snail as JU322).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU323,ok,BGI2-RET7-JU323,BGI2,RET7,JU323,JU323,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #3 on the trunk of a mulberry tree (not the same snail as JU322).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-JU323,ok,BGI3-RET7a-JU323,BGI3,RET7a,JU323,JU323,44.42,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #3 on the trunk of a mulberry tree (not the same snail as JU322).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU322,ok,MMP-7028LAB_5-JU322,MMP,7028LAB_5,JU322,JU323,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+MMP-B00B7AB_3-JU322,ok,MMP-B00B7AB_3-JU322,MMP,B00B7AB_3,JU322,JU323,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+MMP-C02D1AC_1-JU322,ok,MMP-C02D1AC_1-JU322,MMP,C02D1AC_1,JU322,JU323,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+MMP-D09NFAC_4-JU322,ok,MMP-D09NFAC_4-JU322,MMP,D09NFAC_4,JU322,JU323,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+MMP-D0A7EAC_1-JU322,ok,MMP-D0A7EAC_1-JU322,MMP,D0A7EAC_1,JU322,JU323,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+BGI1-RET2-JU346,ok,BGI1-RET2-JU346,BGI1,RET2,JU346,JU346,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU342, JU343, JU344).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JU346,ok,BGI2-RET2-JU346,BGI2,RET2,JU346,JU346,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU342, JU343, JU344).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-JU346,ok,BGI3-RET2b-JU346,BGI3,RET2b,JU346,JU346,44.2,4.4,"Merlet, France","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU342, JU343, JU344).",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman083-R083.8-JU345,ok,Rockman083-R083.8-JU345,Rockman083,R083.8,JU345,JU346,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA33_c045gab-JU346,rename,Princeton-ECA33_c045gab-JU346,Princeton,ECA33_c045gab,JU346,JU346,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-JU360,ok,BGI1-RET1-JU360,BGI1,RET1,JU360,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-JU360,ok,BGI2-RET1-JU360,BGI2,RET1,JU360,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-JU360,ok,BGI3-RET1b-JU360,BGI3,RET1b,JU360,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU360,ok,MMP-7028LAB_5-JU360,MMP,7028LAB_5,JU360,JU360,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+MMP-B00B7AB_3-JU360,ok,MMP-B00B7AB_3-JU360,MMP,B00B7AB_3,JU360,JU360,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+MMP-C02D1AC_1-JU360,ok,MMP-C02D1AC_1-JU360,MMP,C02D1AC_1,JU360,JU360,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+MMP-D09NFAC_4-JU360,ok,MMP-D09NFAC_4-JU360,MMP,D09NFAC_4,JU360,JU360,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+MMP-D0A7EAC_1-JU360,ok,MMP-D0A7EAC_1-JU360,MMP,D0A7EAC_1,JU360,JU360,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+BGI1-RET2-JU363,ok,BGI1-RET2-JU363,BGI1,RET2,JU363,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JU363,ok,BGI2-RET2-JU363,BGI2,RET2,JU363,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-JU363,ok,BGI3-RET2b-JU363,BGI3,RET2b,JU363,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-JU363,ok,Uchicago-L002-JU363,Uchicago,L002,JU363,JU360,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA34_c045gab-JU360,rename,Princeton-ECA34_c045gab-JU360,Princeton,ECA34_c045gab,JU360,JU360,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA34_c045gab-JU360_2,rename,Princeton-ECA34_c045gab-JU360_2,Princeton,ECA34_c045gab,JU360_2,JU360,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-JU367,ok,BGI1-RET7-JU367,BGI1,RET7,JU367,JU367,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU367,ok,BGI2-RET7-JU367,BGI2,RET7,JU367,JU367,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-JU367,ok,BGI3-RET7b-JU367,BGI3,RET7b,JU367,JU367,48.98,2.23,"Francoville, France","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU361,ok,MMP-7028LAB_5-JU361,MMP,7028LAB_5,JU361,JU367,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+MMP-B00B7AB_3-JU361,ok,MMP-B00B7AB_3-JU361,MMP,B00B7AB_3,JU361,JU367,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+MMP-C02D1AC_1-JU361,ok,MMP-C02D1AC_1-JU361,MMP,C02D1AC_1,JU361,JU367,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+MMP-D09NFAC_4-JU361,ok,MMP-D09NFAC_4-JU361,MMP,D09NFAC_4,JU361,JU367,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+MMP-D0A7EAC_1-JU361,ok,MMP-D0A7EAC_1-JU361,MMP,D0A7EAC_1,JU361,JU367,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+BGI1-RET6-JU393,ok,BGI1-RET6-JU393,BGI1,RET6,JU393,JU393,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-JU393,ok,BGI2-RET6-JU393,BGI2,RET6,JU393,JU393,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-JU393,ok,BGI3-RET6b-JU393,BGI3,RET6b,JU393,JU393,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-JU394,ok,BGI1-RET4-JU394,BGI1,RET4,JU394,JU394,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU394,ok,BGI2-RET4-JU394,BGI2,RET4,JU394,JU394,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU394,ok,BGI3-RET4b-JU394,BGI3,RET4b,JU394,JU394,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU394,ok,MMP-7028LAB_5-JU394,MMP,7028LAB_5,JU394,JU394,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+MMP-B00B7AB_3-JU394,ok,MMP-B00B7AB_3-JU394,MMP,B00B7AB_3,JU394,JU394,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+MMP-C02D1AC_1-JU394,ok,MMP-C02D1AC_1-JU394,MMP,C02D1AC_1,JU394,JU394,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+MMP-D09NFAC_4-JU394,ok,MMP-D09NFAC_4-JU394,MMP,D09NFAC_4,JU394,JU394,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+MMP-D0A7EAC_1-JU394,ok,MMP-D0A7EAC_1-JU394,MMP,D0A7EAC_1,JU394,JU394,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+Rockman076-R076.2-JU400,ok,Rockman076-R076.2-JU400,Rockman076,R076.2,JU400,JU394,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-JU397,ok,BGI1-RET5-JU397,BGI1,RET5,JU397,JU397,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU397,ok,BGI2-RET5-JU397,BGI2,RET5,JU397,JU397,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-JU397,ok,BGI3-RET5b-JU397,BGI3,RET5b,JU397,JU397,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile, Sep 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-JU406,ok,BGI1-RET6-JU406,BGI1,RET6,JU406,JU406,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile - isolated 30 Dec 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-JU406,ok,BGI2-RET6-JU406,BGI2,RET6,JU406,JU406,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile - isolated 30 Dec 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-JU406,ok,BGI3-RET6b-JU406,BGI3,RET6b,JU406,JU406,49.28,-0.32,"Hermanville, France","Hermanville (Calvados), France - compost pile - isolated 30 Dec 02.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU440,ok,BGI1-RET3-JU440,BGI1,RET3,JU440,JU440,48.715,1.56,"BeauchÃªne, France","From Beauchêne (Eure & Loir -France) in the compost pile, 12 Sep 03.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU440,ok,BGI2-RET3-JU440,BGI2,RET3,JU440,JU440,48.715,1.56,"BeauchÃªne, France","From Beauchêne (Eure & Loir -France) in the compost pile, 12 Sep 03.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-JU440,ok,BGI3-RET3b-JU440,BGI3,RET3b,JU440,JU440,48.715,1.56,"BeauchÃªne, France","From Beauchêne (Eure & Loir -France) in the compost pile, 12 Sep 03.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA33_c045gab-JU440,rename,Princeton-ECA33_c045gab-JU440,Princeton,ECA33_c045gab,JU440,JU440,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-JU561,ok,BGI1-RET7-JU561,BGI1,RET7,JU561,JU561,48.71,-3.81,"Sainte-Barbe, France","Isolated from a sowbug found in the tube of compost  from Hent ar Rhun, Finistère, France, on 3 Oct O4. Picked on 4 Oct 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU561,ok,BGI2-RET7-JU561,BGI2,RET7,JU561,JU561,48.71,-3.81,"Sainte-Barbe, France","Isolated from a sowbug found in the tube of compost  from Hent ar Rhun, Finistère, France, on 3 Oct O4. Picked on 4 Oct 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-JU561,ok,BGI3-RET7b-JU561,BGI3,RET7b,JU561,JU561,48.71,-3.81,"Sainte-Barbe, France","Isolated from a sowbug found in the tube of compost  from Hent ar Rhun, Finistère, France, on 3 Oct O4. Picked on 4 Oct 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-JU642,ok,BGI1-RET4-JU642,BGI1,RET4,JU642,JU642,48.84,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-JU642,ok,BGI2-RET4-JU642,BGI2,RET4,JU642,JU642,48.84,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-JU642,ok,BGI3-RET4b-JU642,BGI3,RET4b,JU642,JU642,48.84,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU642,ok,MMP-7028LAB_5-JU642,MMP,7028LAB_5,JU642,JU642,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+MMP-B00B7AB_3-JU642,ok,MMP-B00B7AB_3-JU642,MMP,B00B7AB_3,JU642,JU642,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+MMP-C02D1AC_1-JU642,ok,MMP-C02D1AC_1-JU642,MMP,C02D1AC_1,JU642,JU642,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+MMP-D09NFAC_4-JU642,ok,MMP-D09NFAC_4-JU642,MMP,D09NFAC_4,JU642,JU642,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+MMP-D0A7EAC_1-JU642,ok,MMP-D0A7EAC_1-JU642,MMP,D0A7EAC_1,JU642,JU642,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+Princeton-ECA38_c099uac-JU642,ok,Princeton-ECA38_c099uac-JU642,Princeton,ECA38_c099uac,JU642,JU642,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-JU642,ok,Princeton-ECA38_d0mbhac-JU642,Princeton,ECA38_d0mbhac,JU642,JU642,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-JU751,ok,BGI1-RET5-JU751,BGI1,RET5,JU751,JU751,48.44,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 08 June 05. Picked as dauer.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-JU751,ok,BGI2-RET5-JU751,BGI2,RET5,JU751,JU751,48.44,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 08 June 05. Picked as dauer.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-JU751,ok,BGI3-RET5a-JU751,BGI3,RET5a,JU751,JU751,48.44,2.5,"Le Perreux-sur-Marne, France","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 08 June 05. Picked as dauer.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-JU774,ok,BGI1-RET7-JU774,BGI1,RET7,JU774,JU774,38.683,-9.34,"Carcavelos, Portugal","Isolated in Carcavelos, Portugal from garden garbage left on pavement, 10 July 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU774,ok,BGI2-RET7-JU774,BGI2,RET7,JU774,JU774,38.683,-9.34,"Carcavelos, Portugal","Isolated in Carcavelos, Portugal from garden garbage left on pavement, 10 July 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-JU774,ok,BGI3-RET7a-JU774,BGI3,RET7a,JU774,JU774,38.683,-9.34,"Carcavelos, Portugal","Isolated in Carcavelos, Portugal from garden garbage left on pavement, 10 July 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA38_c099uac-JU774,ok,Princeton-ECA38_c099uac-JU774,Princeton,ECA38_c099uac,JU774,JU774,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-JU774,ok,Princeton-ECA38_d0mbhac-JU774,Princeton,ECA38_d0mbhac,JU774,JU774,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-JU775,ok,BGI1-RET2-JU775,BGI1,RET2,JU775,JU775,38.7175,-9.1486,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JU775,ok,BGI2-RET2-JU775,BGI2,RET2,JU775,JU775,38.7175,-9.1486,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-JU775,ok,BGI3-RET2a-JU775,BGI3,RET2a,JU775,JU775,38.7175,-9.1486,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU775,ok,MMP-7028LAB_5-JU775,MMP,7028LAB_5,JU775,JU775,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+MMP-B00B7AB_3-JU775,ok,MMP-B00B7AB_3-JU775,MMP,B00B7AB_3,JU775,JU775,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+MMP-C02D1AC_1-JU775,ok,MMP-C02D1AC_1-JU775,MMP,C02D1AC_1,JU775,JU775,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+MMP-D09NFAC_4-JU775,ok,MMP-D09NFAC_4-JU775,MMP,D09NFAC_4,JU775,JU775,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+MMP-D0A7EAC_1-JU775,ok,MMP-D0A7EAC_1-JU775,MMP,D0A7EAC_1,JU775,JU775,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+Princeton-ECA33_c045gab-JU775,rename,Princeton-ECA33_c045gab-JU775,Princeton,ECA33_c045gab,JU775,JU775,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-JU778,ok,BGI1-RET1-JU778,BGI1,RET1,JU778,JU778,38.719,-9.1491,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a Ficus isophlebia tree with fruits rottening on the ground. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-JU778,ok,BGI2-RET1-JU778,BGI2,RET1,JU778,JU778,38.719,-9.1491,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a Ficus isophlebia tree with fruits rottening on the ground. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-JU778,ok,BGI3-RET1b-JU778,BGI3,RET1b,JU778,JU778,38.719,-9.1491,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a Ficus isophlebia tree with fruits rottening on the ground. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-JU782,ok,BGI1-RET2-JU782,BGI1,RET2,JU782,JU782,38.7191,-9.1503,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 in compost heap at the top of the garden.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-JU782,ok,BGI2-RET2-JU782,BGI2,RET2,JU782,JU782,38.7191,-9.1503,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 in compost heap at the top of the garden.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-JU782,ok,BGI3-RET2a-JU782,BGI3,RET2a,JU782,JU782,38.7191,-9.1503,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 in compost heap at the top of the garden.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L001-JU782,ok,Uchicago-L001-JU782,Uchicago,L001,JU782,JU782,38.7191,-9.1503,"Lisbon, Portugal","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 in compost heap at the top of the garden.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA40_d0ncdac-JU782,ok,Princeton-ECA40_d0ncdac-JU782,Princeton,ECA40_d0ncdac,JU782,JU782,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECAmp_c0g61ac-JU782,ok,Princeton-ECAmp_c0g61ac-JU782,Princeton,ECAmp_c0g61ac,JU782,JU782,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA37_d0ncdac-JU782,rename,Princeton-ECA37_d0ncdac-JU782,Princeton,ECA37_d0ncdac,JU782,JU782,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI2-RET6-JU792,ok,BGI2-RET6-JU792,BGI2,RET6,JU792,JU792,43.06,0.24,"FrÃ©chendets, France","From the compost heap at the bottom of the garden in Frechendets (Hautes Pyrénées), 31 August 05",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-JU792,ok,BGI3-RET6a-JU792,BGI3,RET6a,JU792,JU792,43.06,0.24,"FrÃ©chendets, France","From the compost heap at the bottom of the garden in Frechendets (Hautes Pyrénées), 31 August 05",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-JU830,ok,BGI1-RET3-JU830,BGI1,RET3,JU830,JU830,48.52,9.05,"TÃ¼bingen, Germany","Compost heap of Ray Hong in Tübingen, Germany, 28 Sep 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-JU830,ok,BGI2-RET3-JU830,BGI2,RET3,JU830,JU830,48.52,9.05,"TÃ¼bingen, Germany","Compost heap of Ray Hong in Tübingen, Germany, 28 Sep 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-JU830,ok,BGI3-RET3a-JU830,BGI3,RET3a,JU830,JU830,48.52,9.05,"TÃ¼bingen, Germany","Compost heap of Ray Hong in Tübingen, Germany, 28 Sep 05. ",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-JU847,ok,BGI1-RET7-JU847,BGI1,RET7,JU847,JU847,48.46,7.461,"Obernai, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-JU847,ok,BGI2-RET7-JU847,BGI2,RET7,JU847,JU847,48.46,7.461,"Obernai, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-JU847,ok,BGI3-RET7a-JU847,BGI3,RET7a,JU847,JU847,48.46,7.461,"Obernai, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-KR314,ok,BGI1-RET5-KR314,BGI1,RET5,KR314,KR314,49.28,-123.13,"Vancouver, Canada",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-KR314,ok,BGI2-RET5-KR314,BGI2,RET5,KR314,KR314,49.28,-123.13,"Vancouver, Canada",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-KR314,ok,BGI3-RET5b-KR314,BGI3,RET5b,KR314,KR314,49.28,-123.13,"Vancouver, Canada",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-KR314,ok,MMP-7028LAB_5-KR314,MMP,7028LAB_5,KR314,KR314,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+MMP-B00B7AB_3-KR314,ok,MMP-B00B7AB_3-KR314,MMP,B00B7AB_3,KR314,KR314,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+MMP-C02D1AC_1-KR314,ok,MMP-C02D1AC_1-KR314,MMP,C02D1AC_1,KR314,KR314,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+MMP-D09NFAC_4-KR314,ok,MMP-D09NFAC_4-KR314,MMP,D09NFAC_4,KR314,KR314,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+MMP-D0A7EAC_1-KR314,ok,MMP-D0A7EAC_1-KR314,MMP,D0A7EAC_1,KR314,KR314,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+Princeton-ECA39_d0ncdac-KR314,ok,Princeton-ECA39_d0ncdac-KR314,Princeton,ECA39_d0ncdac,KR314,KR314,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-LKC34,ok,BGI1-RET3-LKC34,BGI1,RET3,LKC34,LKC34,-18,46,"Unknown city, Madagascar",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-LKC34,ok,BGI2-RET3-LKC34,BGI2,RET3,LKC34,LKC34,-18,46,"Unknown city, Madagascar",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-LKC34,ok,BGI3-RET3a-LKC34,BGI3,RET3a,LKC34,LKC34,-18,46,"Unknown city, Madagascar",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-LKC34,ok,MMP-7028LAB_5-LKC34,MMP,7028LAB_5,LKC34,LKC34,-18,46,",  (Madagascar)",,None,,Sonication
+MMP-B00B7AB_3-LKC34,ok,MMP-B00B7AB_3-LKC34,MMP,B00B7AB_3,LKC34,LKC34,-18,46,",  (Madagascar)",,None,,Sonication
+MMP-C02D1AC_1-LKC34,ok,MMP-C02D1AC_1-LKC34,MMP,C02D1AC_1,LKC34,LKC34,-18,46,",  (Madagascar)",,None,,Sonication
+MMP-D09NFAC_4-LKC34,ok,MMP-D09NFAC_4-LKC34,MMP,D09NFAC_4,LKC34,LKC34,-18,46,",  (Madagascar)",,None,,Sonication
+MMP-D0A7EAC_1-LKC34,ok,MMP-D0A7EAC_1-LKC34,MMP,D0A7EAC_1,LKC34,LKC34,-18,46,",  (Madagascar)",,None,,Sonication
+Princeton-ECA33_c045gab-LKC34,rename,Princeton-ECA33_c045gab-LKC34,Princeton,ECA33_c045gab,LKC34,LKC34,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-LSJ1,ok,BGI1-RET4-LSJ1,BGI1,RET4,LSJ1,LSJ1,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-LSJ1,ok,BGI2-RET4-LSJ1,BGI2,RET4,LSJ1,LSJ1,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-LSJ1,ok,BGI3-RET4a-LSJ1,BGI3,RET4a,LSJ1,LSJ1,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA36_c099uac-LSJ1,ok,Princeton-ECA36_c099uac-LSJ1,Princeton,ECA36_c099uac,LSJ1,LSJ1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-LSJ1,ok,Princeton-ECA36_d0mbhac-LSJ1,Princeton,ECA36_d0mbhac,LSJ1,LSJ1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-MY1,ok,BGI1-RET2-MY1,BGI1,RET2,MY1,MY1,52.54,7.31,"Lingen, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-MY1,ok,BGI2-RET2-MY1,BGI2,RET2,MY1,MY1,52.54,7.31,"Lingen, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-MY1,ok,BGI3-RET2b-MY1,BGI3,RET2b,MY1,MY1,52.54,7.31,"Lingen, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-MY1,ok,MMP-7028LAB_5-MY1,MMP,7028LAB_5,MY1,MY1,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+MMP-B00B7AB_3-MY1,ok,MMP-B00B7AB_3-MY1,MMP,B00B7AB_3,MY1,MY1,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+MMP-C02D1AC_1-MY1,ok,MMP-C02D1AC_1-MY1,MMP,C02D1AC_1,MY1,MY1,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+MMP-D09NFAC_4-MY1,ok,MMP-D09NFAC_4-MY1,MMP,D09NFAC_4,MY1,MY1,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+MMP-D0A7EAC_1-MY1,ok,MMP-D0A7EAC_1-MY1,MMP,D0A7EAC_1,MY1,MY1,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+Rockman076-R076.3-MY1,ok,Rockman076-R076.3-MY1,Rockman076,R076.3,MY1,MY1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_c099uac-MY1,ok,Princeton-ECA36_c099uac-MY1,Princeton,ECA36_c099uac,MY1,MY1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA36_d0mbhac-MY1,ok,Princeton-ECA36_d0mbhac-MY1,Princeton,ECA36_d0mbhac,MY1,MY1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-MY10,ok,BGI1-RET3-MY10,BGI1,RET3,MY10,MY10,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-MY10,ok,BGI2-RET3-MY10,BGI2,RET3,MY10,MY10,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-MY10,ok,BGI3-RET3b-MY10,BGI3,RET3b,MY10,MY10,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA38_c099uac-MY10,ok,Princeton-ECA38_c099uac-MY10,Princeton,ECA38_c099uac,MY10,MY10,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-MY10,ok,Princeton-ECA38_d0mbhac-MY10,Princeton,ECA38_d0mbhac,MY10,MY10,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Rockman076-R076.2-MY16,ok,Rockman076-R076.2-MY16,Rockman076,R076.2,MY16,MY16,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-MY16,ok,BGI1-RET2-MY16,BGI1,RET2,MY16,MY16,51.93,7.57,"Mecklenbeck, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-MY16,ok,BGI2-RET2-MY16,BGI2,RET2,MY16,MY16,51.93,7.57,"Mecklenbeck, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-MY16,ok,BGI3-RET2a-MY16,BGI3,RET2a,MY16,MY16,51.93,7.57,"Mecklenbeck, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-MY16,ok,MMP-7028LAB_5-MY16,MMP,7028LAB_5,MY16,MY16,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+MMP-B00B7AB_3-MY16,ok,MMP-B00B7AB_3-MY16,MMP,B00B7AB_3,MY16,MY16,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+MMP-C02D1AC_1-MY16,ok,MMP-C02D1AC_1-MY16,MMP,C02D1AC_1,MY16,MY16,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+MMP-D09NFAC_4-MY16,ok,MMP-D09NFAC_4-MY16,MMP,D09NFAC_4,MY16,MY16,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+MMP-D0A7EAC_1-MY16,ok,MMP-D0A7EAC_1-MY16,MMP,D0A7EAC_1,MY16,MY16,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+Rockman096-R096.2-MY16,ok,Rockman096-R096.2-MY16,Rockman096,R096.2,MY16,MY16,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA41_d0ncdac-MY16,ok,Princeton-ECA41_d0ncdac-MY16,Princeton,ECA41_d0ncdac,MY16,MY16,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-MY18,ok,BGI1-RET7-MY18,BGI1,RET7,MY18,MY18,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-MY18,ok,BGI2-RET7-MY18,BGI2,RET7,MY18,MY18,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-MY18,ok,BGI3-RET7a-MY18,BGI3,RET7a,MY18,MY18,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.4-MY18,ok,Rockman096-R096.4-MY18,Rockman096,R096.4,MY18,MY18,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+MMP-7028LAB_5-MY6,ok,MMP-7028LAB_5-MY6,MMP,7028LAB_5,MY6,MY18,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-B00B7AB_3-MY6,ok,MMP-B00B7AB_3-MY6,MMP,B00B7AB_3,MY6,MY18,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-C02D1AC_1-MY6,ok,MMP-C02D1AC_1-MY6,MMP,C02D1AC_1,MY6,MY18,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-D09NFAC_4-MY6,ok,MMP-D09NFAC_4-MY6,MMP,D09NFAC_4,MY6,MY18,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-D0A7EAC_1-MY6,ok,MMP-D0A7EAC_1-MY6,MMP,D0A7EAC_1,MY6,MY18,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+Princeton-ECA38_c099uac-MY18,ok,Princeton-ECA38_c099uac-MY18,Princeton,ECA38_c099uac,MY18,MY18,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-MY18,ok,Princeton-ECA38_d0mbhac-MY18,Princeton,ECA38_d0mbhac,MY18,MY18,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-MY23,ok,BGI1-RET1-MY23,BGI1,RET1,MY23,MY23,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-MY23,ok,BGI2-RET1-MY23,BGI2,RET1,MY23,MY23,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1a-MY23,ok,BGI3-RET1a-MY23,BGI3,RET1a,MY23,MY23,51.96,7.53,"Roxel, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-P-MY23,ok,Princeton-P-MY23,Princeton,P,MY23,MY23,51.96,7.53,"Roxel, Germany",,-10bp of end (low quality),,Tagmentation
+MMP-7028LAB_5-MY2,ok,MMP-7028LAB_5-MY2,MMP,7028LAB_5,MY2,MY23,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-B00B7AB_3-MY2,ok,MMP-B00B7AB_3-MY2,MMP,B00B7AB_3,MY2,MY23,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-C02D1AC_1-MY2,ok,MMP-C02D1AC_1-MY2,MMP,C02D1AC_1,MY2,MY23,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-D09NFAC_4-MY2,ok,MMP-D09NFAC_4-MY2,MMP,D09NFAC_4,MY2,MY23,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+MMP-D0A7EAC_1-MY2,ok,MMP-D0A7EAC_1-MY2,MMP,D0A7EAC_1,MY2,MY23,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+Princeton-ECA34_c045gab-MY23,rename,Princeton-ECA34_c045gab-MY23,Princeton,ECA34_c045gab,MY23,MY23,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET1-N2_CGC,ok,BGI1-RET1-N2_CGC,BGI1,RET1,N2_CGC,N2,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-N2_CGC,ok,BGI2-RET1-N2_CGC,BGI2,RET1,N2_CGC,N2,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1a-N2_CGC,ok,BGI3-RET1a-N2_CGC,BGI3,RET1a,N2_CGC,N2,51.45,-2.59,"Bristol, United Kingdom",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-P-N2_CGC,ok,Princeton-P-N2_CGC,Princeton,P,N2_CGC,N2,51.45,-2.59,"Bristol, United Kingdom",,-10bp of end (low quality),,Tagmentation
+BGI1-RET6-N2_HRH,ok,BGI1-RET6-N2_HRH,BGI1,RET6,N2_HRH,N2,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-N2_HRH,ok,BGI2-RET6-N2_HRH,BGI2,RET6,N2_HRH,N2,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-N2_HRH,ok,BGI3-RET6b-N2_HRH,BGI3,RET6b,N2_HRH,N2,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L001-N2Baer,ok,Uchicago-L001-N2Baer,Uchicago,L001,N2Baer,N2,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-NIC1,ok,BGI1-RET3-NIC1,BGI1,RET3,NIC1,NIC1,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-NIC1,ok,BGI2-RET3-NIC1,BGI2,RET3,NIC1,NIC1,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-NIC1,ok,BGI3-RET3a-NIC1,BGI3,RET3a,NIC1,NIC1,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-NIC1,ok,Princeton-ECA30_c02hkac-NIC1,Princeton,ECA30_c02hkac,NIC1,NIC1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-NIC1,ok,Princeton-ECA30_c03b2ab-NIC1,Princeton,ECA30_c03b2ab,NIC1,NIC1,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-NIC166,ok,BGI1-RET5-NIC166,BGI1,RET5,NIC166,NIC166,46.72722,6.89775,"Canton of Vaud, Switzerland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-NIC166,ok,BGI2-RET5-NIC166,BGI2,RET5,NIC166,NIC166,46.72722,6.89775,"Canton of Vaud, Switzerland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-NIC166,ok,BGI3-RET5a-NIC166,BGI3,RET5a,NIC166,NIC166,46.72722,6.89775,"Canton of Vaud, Switzerland",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-NIC195,ok,BGI1-RET5-NIC195,BGI1,RET5,NIC195,NIC195,38.545874,-28.37322,"Santâ€™Aana, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-NIC195,ok,BGI2-RET5-NIC195,BGI2,RET5,NIC195,NIC195,38.545874,-28.37322,"Santâ€™Aana, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-NIC195,ok,BGI3-RET5a-NIC195,BGI3,RET5a,NIC195,NIC195,38.545874,-28.37322,"Santâ€™Aana, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-NIC196,ok,BGI1-RET2-NIC196,BGI1,RET2,NIC196,NIC195,38.4716405,-28.20149,"Pranhia, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-NIC196,ok,BGI2-RET2-NIC196,BGI2,RET2,NIC196,NIC195,38.4716405,-28.20149,"Pranhia, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-NIC196,ok,BGI3-RET2b-NIC196,BGI3,RET2b,NIC196,NIC195,38.4716405,-28.20149,"Pranhia, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-NIC197,ok,BGI1-RET3-NIC197,BGI1,RET3,NIC197,NIC195,38.39682,-28.25165,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-NIC197,ok,BGI2-RET3-NIC197,BGI2,RET3,NIC197,NIC195,38.39682,-28.25165,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-NIC197,ok,BGI3-RET3a-NIC197,BGI3,RET3a,NIC197,NIC195,38.39682,-28.25165,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-NIC198,ok,BGI1-RET4-NIC198,BGI1,RET4,NIC198,NIC195,39.4364016,-31.23849,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-NIC198,ok,BGI2-RET4-NIC198,BGI2,RET4,NIC198,NIC195,39.4364016,-31.23849,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-NIC198,ok,BGI3-RET4a-NIC198,BGI3,RET4a,NIC198,NIC195,39.4364016,-31.23849,"Poco dos Patas, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-NIC199,ok,BGI1-RET6-NIC199,BGI1,RET6,NIC199,NIC199,37.745428,-25.19929,"Faial da Terra, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-NIC199,ok,BGI2-RET6-NIC199,BGI2,RET6,NIC199,NIC199,37.745428,-25.19929,"Faial da Terra, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-NIC199,ok,BGI3-RET6a-NIC199,BGI3,RET6a,NIC199,NIC199,37.745428,-25.19929,"Faial da Terra, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-NIC200,ok,BGI1-RET7-NIC200,BGI1,RET7,NIC200,NIC199,37.74942,-25.66489,"Ponta Delgada, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-NIC200,ok,BGI2-RET7-NIC200,BGI2,RET7,NIC200,NIC199,37.74942,-25.66489,"Ponta Delgada, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-NIC200,ok,BGI3-RET7a-NIC200,BGI3,RET7a,NIC200,NIC199,37.74942,-25.66489,"Ponta Delgada, Azores",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET2-NIC2,ok,BGI1-RET2-NIC2,BGI1,RET2,NIC2,NIC2,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-NIC2,ok,BGI2-RET2-NIC2,BGI2,RET2,NIC2,NIC2,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-NIC2,ok,BGI3-RET2a-NIC2,BGI3,RET2a,NIC2,NIC2,43.279,5.3543,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-NIC2,ok,Princeton-ECA31_c02hkac-NIC2,Princeton,ECA31_c02hkac,NIC2,NIC2,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-NIC2,ok,Princeton-ECA31_c03b2ab-NIC2,Princeton,ECA31_c03b2ab,NIC2,NIC2,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET3-NIC207,ok,BGI1-RET3-NIC207,BGI1,RET3,NIC207,NIC207,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-NIC207,ok,BGI2-RET3-NIC207,BGI2,RET3,NIC207,NIC207,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-NIC207,ok,BGI3-RET3a-NIC207,BGI3,RET3a,NIC207,NIC207,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-NIC231,ok,BGI1-RET4-NIC231,BGI1,RET4,NIC231,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-NIC231,ok,BGI2-RET4-NIC231,BGI2,RET4,NIC231,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-NIC231,ok,BGI3-RET4a-NIC231,BGI3,RET4a,NIC231,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-NIC232,ok,BGI1-RET1-NIC232,BGI1,RET1,NIC232,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-NIC232,ok,BGI2-RET1-NIC232,BGI2,RET1,NIC232,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-NIC232,ok,BGI3-RET1b-NIC232,BGI3,RET1b,NIC232,NIC231,43.720505,7.24045,"Nice, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-NIC236,ok,BGI1-RET6-NIC236,BGI1,RET6,NIC236,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-NIC236,ok,BGI2-RET6-NIC236,BGI2,RET6,NIC236,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-NIC236,ok,BGI3-RET6a-NIC236,BGI3,RET6a,NIC236,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-NIC237,ok,BGI1-RET5-NIC237,BGI1,RET5,NIC237,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-NIC237,ok,BGI2-RET5-NIC237,BGI2,RET5,NIC237,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-NIC237,ok,BGI3-RET5a-NIC237,BGI3,RET5a,NIC237,NIC236,39.242006,-9.313417,"Lourinha, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-NIC256,ok,Uchicago-L002-NIC256,Uchicago,L002,NIC256,NIC256,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-NIC263,ok,Uchicago-L002-NIC263,Uchicago,L002,NIC263,NIC256,38.71829,-9.14875,"Lisbon, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-NIC267,ok,Uchicago-L002-NIC267,Uchicago,L002,NIC267,NIC267,38.69237,-9.31592,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L002-NIC270,ok,Uchicago-L002-NIC270,Uchicago,L002,NIC270,NIC267,38.69237,-9.14875,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-NIC3,ok,BGI1-RET3-NIC3,BGI1,RET3,NIC3,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-NIC3,ok,BGI2-RET3-NIC3,BGI2,RET3,NIC3,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-NIC3,ok,BGI3-RET3a-NIC3,BGI3,RET3a,NIC3,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-NIC4,ok,BGI1-RET4-NIC4,BGI1,RET4,NIC4,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-NIC4,ok,BGI2-RET4-NIC4,BGI2,RET4,NIC4,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-NIC4,ok,BGI3-RET4a-NIC4,BGI3,RET4a,NIC4,NIC3,43.3636,5.3215,"Marseille, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-NIC3,ok,Princeton-ECA31_c02hkac-NIC3,Princeton,ECA31_c02hkac,NIC3,NIC3,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-NIC3,ok,Princeton-ECA31_c03b2ab-NIC3,Princeton,ECA31_c03b2ab,NIC3,NIC3,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c02hkac-NIC4,ok,Princeton-ECA32_c02hkac-NIC4,Princeton,ECA32_c02hkac,NIC4,NIC3,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-NIC4,ok,Princeton-ECA32_c03b2ab-NIC4,Princeton,ECA32_c03b2ab,NIC4,NIC3,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-PB303,ok,BGI1-RET6-PB303,BGI1,RET6,PB303,PB303,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-PB303,ok,BGI2-RET6-PB303,BGI2,RET6,PB303,PB303,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-PB303,ok,BGI3-RET6b-PB303,BGI3,RET6b,PB303,PB303,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA41_d0ncdac-PB303,ok,Princeton-ECA41_d0ncdac-PB303,Princeton,ECA41_d0ncdac,PB303,PB303,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-PB306,ok,BGI1-RET2-PB306,BGI1,RET2,PB306,PB306,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-PB306,ok,BGI2-RET2-PB306,BGI2,RET2,PB306,PB306,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-PB306,ok,BGI3-RET2a-PB306,BGI3,RET2a,PB306,PB306,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.2-PB306,ok,Rockman096-R096.2-PB306,Rockman096,R096.2,PB306,PB306,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA33_c045gab-PB306,rename,Princeton-ECA33_c045gab-PB306,Princeton,ECA33_c045gab,PB306,PB306,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET7-PS2025,ok,BGI1-RET7-PS2025,BGI1,RET7,PS2025,PS2025,34.19,-118.13,"Altadena, USA","Altadena, California.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-PS2025,ok,BGI2-RET7-PS2025,BGI2,RET7,PS2025,PS2025,34.19,-118.13,"Altadena, USA","Altadena, California.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-PS2025,ok,BGI3-RET7a-PS2025,BGI3,RET7a,PS2025,PS2025,34.19,-118.13,"Altadena, USA","Altadena, California.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA41_d0ncdac-PS2025,ok,Princeton-ECA41_d0ncdac-PS2025,Princeton,ECA41_d0ncdac,PS2025,PS2025,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-PX179,ok,BGI1-RET6-PX179,BGI1,RET6,PX179,PX179,44.035,-123.058,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-PX179,ok,BGI2-RET6-PX179,BGI2,RET6,PX179,PX179,44.035,-123.058,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-PX179,ok,BGI3-RET6a-PX179,BGI3,RET6a,PX179,PX179,44.035,-123.058,"Eugene, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman096-R096.2-PX179,ok,Rockman096-R096.2-PX179,Rockman096,R096.2,PX179,PX179,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_c099uac-PX179,ok,Princeton-ECA38_c099uac-PX179,Princeton,ECA38_c099uac,PX179,PX179,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-PX179,ok,Princeton-ECA38_d0mbhac-PX179,Princeton,ECA38_d0mbhac,PX179,PX179,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-QG536,ok,BGI1-RET5-QG536,BGI1,RET5,QG536,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-QG536,ok,BGI2-RET5-QG536,BGI2,RET5,QG536,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-QG536,ok,BGI3-RET5b-QG536,BGI3,RET5b,QG536,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-QG537,ok,BGI1-RET7-QG537,BGI1,RET7,QG537,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-QG537,ok,BGI2-RET7-QG537,BGI2,RET7,QG537,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-QG537,ok,BGI3-RET7b-QG537,BGI3,RET7b,QG537,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-QG538,ok,BGI1-RET6-QG538,BGI1,RET6,QG538,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-QG538,ok,BGI2-RET6-QG538,BGI2,RET6,QG538,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-QG538,ok,BGI3-RET6b-QG538,BGI3,RET6b,QG538,QG536,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-QG538,ok,Princeton-ECA30_c02hkac-QG538,Princeton,ECA30_c02hkac,QG538,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-QG538,ok,Princeton-ECA30_c03b2ab-QG538,Princeton,ECA30_c03b2ab,QG538,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c02hkac-QG536,ok,Princeton-ECA32_c02hkac-QG536,Princeton,ECA32_c02hkac,QG536,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c02hkac-QX1214,ok,Princeton-ECA32_c02hkac-QX1214,Princeton,ECA32_c02hkac,QX1214,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-QG536,ok,Princeton-ECA32_c03b2ab-QG536,Princeton,ECA32_c03b2ab,QG536,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-QX1214,ok,Princeton-ECA32_c03b2ab-QX1214,Princeton,ECA32_c03b2ab,QX1214,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA40_d0ncdac-QG537,ok,Princeton-ECA40_d0ncdac-QG537,Princeton,ECA40_d0ncdac,QG537,QG536,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-QG556,ok,BGI1-RET2-QG556,BGI1,RET2,QG556,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-QG556,ok,BGI2-RET2-QG556,BGI2,RET2,QG556,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2a-QG556,ok,BGI3-RET2a-QG556,BGI3,RET2a,QG556,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-QG558,ok,BGI1-RET7-QG558,BGI1,RET7,QG558,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-QG558,ok,BGI2-RET7-QG558,BGI2,RET7,QG558,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7a-QG558,ok,BGI3-RET7a-QG558,BGI3,RET7a,QG558,QG556,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET1-QG557,ok,BGI1-RET1-QG557,BGI1,RET1,QG557,QG557,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET1-QG557,ok,BGI2-RET1-QG557,BGI2,RET1,QG557,QG557,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-QG557,ok,BGI3-RET1b-QG557,BGI3,RET1b,QG557,QG557,34.421629,-119.702021,"Santa Barbara, CA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-QX1211,ok,BGI1-RET3-QX1211,BGI1,RET3,QX1211,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-QX1211,ok,BGI2-RET3-QX1211,BGI2,RET3,QX1211,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3a-QX1211,ok,BGI3-RET3a-QX1211,BGI3,RET3a,QX1211,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET3-QX1215,ok,BGI1-RET3-QX1215,BGI1,RET3,QX1215,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET3-QX1215,ok,BGI2-RET3-QX1215,BGI2,RET3,QX1215,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET3b-QX1215,ok,BGI3-RET3b-QX1215,BGI3,RET3b,QX1215,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-QX1216,ok,BGI1-RET7-QX1216,BGI1,RET7,QX1216,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-QX1216,ok,BGI2-RET7-QX1216,BGI2,RET7,QX1216,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-QX1216,ok,BGI3-RET7b-QX1216,BGI3,RET7b,QX1216,QX1211,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA32_c02hkac-QX1215,ok,Princeton-ECA32_c02hkac-QX1215,Princeton,ECA32_c02hkac,QX1215,QX1211,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-QX1215,ok,Princeton-ECA32_c03b2ab-QX1215,Princeton,ECA32_c03b2ab,QX1215,QX1211,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Rockman106-R106.4-QX1211,ok,Rockman106-R106.4-QX1211,Rockman106,R106.4,QX1211,QX1211,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-81771-QX1211,rename,Princeton-81771-QX1211,Princeton,81771,QX1211,QX1211,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-QX1212,ok,BGI1-RET4-QX1212,BGI1,RET4,QX1212,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-QX1212,ok,BGI2-RET4-QX1212,BGI2,RET4,QX1212,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4a-QX1212,ok,BGI3-RET4a-QX1212,BGI3,RET4a,QX1212,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-QX1213,ok,BGI1-RET5-QX1213,BGI1,RET5,QX1213,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-QX1213,ok,BGI2-RET5-QX1213,BGI2,RET5,QX1213,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-QX1213,ok,BGI3-RET5b-QX1213,BGI3,RET5b,QX1213,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-QX1214,ok,BGI1-RET6-QX1214,BGI1,RET6,QX1214,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-QX1214,ok,BGI2-RET6-QX1214,BGI2,RET6,QX1214,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6a-QX1214,ok,BGI3-RET6a-QX1214,BGI3,RET6a,QX1214,QX1212,37.7502,-122.4331,"San Francisco, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-QX1212,ok,Princeton-ECA31_c02hkac-QX1212,Princeton,ECA31_c02hkac,QX1212,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c02hkac-QX1213,ok,Princeton-ECA31_c02hkac-QX1213,Princeton,ECA31_c02hkac,QX1213,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-QX1212,ok,Princeton-ECA31_c03b2ab-QX1212,Princeton,ECA31_c03b2ab,QX1212,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-QX1213,ok,Princeton-ECA31_c03b2ab-QX1213,Princeton,ECA31_c03b2ab,QX1213,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c02hkac-QG537,ok,Princeton-ECA32_c02hkac-QG537,Princeton,ECA32_c02hkac,QG537,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-QG537,ok,Princeton-ECA32_c03b2ab-QG537,Princeton,ECA32_c03b2ab,QG537,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA40_d0ncdac-QX1214,ok,Princeton-ECA40_d0ncdac-QX1214,Princeton,ECA40_d0ncdac,QX1214,QX1212,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET4-QX1233,ok,BGI1-RET4-QX1233,BGI1,RET4,QX1233,QX1233,37.8804,-122.2838,"Berkeley, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-QX1233,ok,BGI2-RET4-QX1233,BGI2,RET4,QX1233,QX1233,37.8804,-122.2838,"Berkeley, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-QX1233,ok,BGI3-RET4b-QX1233,BGI3,RET4b,QX1233,QX1233,37.8804,-122.2838,"Berkeley, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA41_d0ncdac-QX1233,ok,Princeton-ECA41_d0ncdac-QX1233,Princeton,ECA41_d0ncdac,QX1233,QX1233,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-QX1791,ok,BGI1-RET2-QX1791,BGI1,RET2,QX1791,QX1791,20.6344,-156.3935,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-QX1791,ok,BGI2-RET2-QX1791,BGI2,RET2,QX1791,QX1791,20.6344,-156.3935,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-QX1791,ok,BGI3-RET2b-QX1791,BGI3,RET2b,QX1791,QX1791,20.6344,-156.3935,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-QX1791,ok,Princeton-ECA30_c02hkac-QX1791,Princeton,ECA30_c02hkac,QX1791,QX1791,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-QX1791,ok,Princeton-ECA30_c03b2ab-QX1791,Princeton,ECA30_c03b2ab,QX1791,QX1791,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-QX1792,ok,BGI1-RET2-QX1792,BGI1,RET2,QX1792,QX1792,20.70554,-156.35475,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-QX1792,ok,BGI2-RET2-QX1792,BGI2,RET2,QX1792,QX1792,20.70554,-156.35475,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-QX1792,ok,BGI3-RET2b-QX1792,BGI3,RET2b,QX1792,QX1792,20.70554,-156.35475,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Uchicago-L001-QX1792,ok,Uchicago-L001-QX1792,Uchicago,L001,QX1792,QX1792,20.70554,-156.35475,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA31_c02hkac-QX1792,ok,Princeton-ECA31_c02hkac-QX1792,Princeton,ECA31_c02hkac,QX1792,QX1792,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA31_c03b2ab-QX1792,ok,Princeton-ECA31_c03b2ab-QX1792,Princeton,ECA31_c03b2ab,QX1792,QX1792,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-QX1793,ok,BGI1-RET2-QX1793,BGI1,RET2,QX1793,QX1793,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-QX1793,ok,BGI2-RET2-QX1793,BGI2,RET2,QX1793,QX1793,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-QX1793,ok,BGI3-RET2b-QX1793,BGI3,RET2b,QX1793,QX1793,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA32_c02hkac-QX1793,ok,Princeton-ECA32_c02hkac-QX1793,Princeton,ECA32_c02hkac,QX1793,QX1793,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA32_c03b2ab-QX1793,ok,Princeton-ECA32_c03b2ab-QX1793,Princeton,ECA32_c03b2ab,QX1793,QX1793,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET2-QX1794,ok,BGI1-RET2-QX1794,BGI1,RET2,QX1794,QX1794,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET2-QX1794,ok,BGI2-RET2-QX1794,BGI2,RET2,QX1794,QX1794,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET2b-QX1794,ok,BGI3-RET2b-QX1794,BGI3,RET2b,QX1794,QX1794,20.70559,-156.35678,"Maui, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-RC301,ok,BGI1-RET5-RC301,BGI1,RET5,RC301,RC301,47.99,7.84,"Freiburg, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-RC301,ok,BGI2-RET5-RC301,BGI2,RET5,RC301,RC301,47.99,7.84,"Freiburg, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5a-RC301,ok,BGI3-RET5a-RC301,BGI3,RET5a,RC301,RC301,47.99,7.84,"Freiburg, Germany",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Rockman076-R076.3-RC301,ok,Rockman076-R076.3-RC301,Rockman076,R076.3,RC301,RC301,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+MMP-7028LAB_5-PX174,ok,MMP-7028LAB_5-PX174,MMP,7028LAB_5,PX174,RC301,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+MMP-B00B7AB_3-PX174,ok,MMP-B00B7AB_3-PX174,MMP,B00B7AB_3,PX174,RC301,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+MMP-C02D1AC_1-PX174,ok,MMP-C02D1AC_1-PX174,MMP,C02D1AC_1,PX174,RC301,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+MMP-D09NFAC_4-PX174,ok,MMP-D09NFAC_4-PX174,MMP,D09NFAC_4,PX174,RC301,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+MMP-D0A7EAC_1-PX174,ok,MMP-D0A7EAC_1-PX174,MMP,D0A7EAC_1,PX174,RC301,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+Princeton-ECA38_c099uac-RC301,ok,Princeton-ECA38_c099uac-RC301,Princeton,ECA38_c099uac,RC301,RC301,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA38_d0mbhac-RC301,ok,Princeton-ECA38_d0mbhac-RC301,Princeton,ECA38_d0mbhac,RC301,RC301,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Rockman076-R076.4-JU319,ok,Rockman076-R076.4-JU319,Rockman076,R076.4,JU319,RC301,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Rockman083-R083.8-PX174,ok,Rockman083-R083.8-PX174,Rockman083,R083.8,PX174,RC301,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET6-WN2001,ok,BGI1-RET6-WN2001,BGI1,RET6,WN2001,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-WN2001,ok,BGI2-RET6-WN2001,BGI2,RET6,WN2001,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-WN2001,ok,BGI3-RET6b-WN2001,BGI3,RET6b,WN2001,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-WN2010,ok,BGI1-RET7-WN2010,BGI1,RET7,WN2010,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-WN2010,ok,BGI2-RET7-WN2010,BGI2,RET7,WN2010,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-WN2010,ok,BGI3-RET7b-WN2010,BGI3,RET7b,WN2010,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,MMP-7028LAB_5-JU1171,MMP,7028LAB_5,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,MMP-7028LAB_5-MY14,MMP,7028LAB_5,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,remove,MMP-7028LAB_5-JU345,MMP,7028LAB_5,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,remove,MMP-7028LAB_5-JU397,MMP,7028LAB_5,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,remove,MMP-B00B7AB_3-JU1171,MMP,B00B7AB_3,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,MMP-B00B7AB_3-MY14,MMP,B00B7AB_3,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,remove,MMP-B00B7AB_3-JU345,MMP,B00B7AB_3,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,remove,MMP-B00B7AB_3-JU397,MMP,B00B7AB_3,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,remove,MMP-C02D1AC_1-JU1171,MMP,C02D1AC_1,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,MMP-C02D1AC_1-MY14,MMP,C02D1AC_1,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,delete,Princeton-EA68-CATTTTG,Princeton,EA68,CATTTTG,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Princeton-ECA31_c02hkac-QX1794,Princeton,ECA31_c02hkac,QX1794,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Princeton-ECA31_c03b2ab-QX1794,Princeton,ECA31_c03b2ab,QX1794,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Princeton-ECA39_d0ncdac-JU1568,Princeton,ECA39_d0ncdac,JU1568,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Princeton-ECA39_d0ncdac-JU774,Princeton,ECA39_d0ncdac,JU774,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Princeton-ECA44_47-CGATGTA,Princeton,ECA44_47,CGATGTA,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,Rockman083-R083.8-CB4858,Rockman083,R083.8,CB4858,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,MMP-C02D1AC_1-JU345,MMP,C02D1AC_1,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,remove,MMP-C02D1AC_1-JU397,MMP,C02D1AC_1,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,remove,MMP-D09NFAC_4-JU1171,MMP,D09NFAC_4,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,MMP-D09NFAC_4-MY14,MMP,D09NFAC_4,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,remove,MMP-D09NFAC_4-JU345,MMP,D09NFAC_4,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,remove,MMP-D09NFAC_4-JU397,MMP,D09NFAC_4,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,remove,MMP-D0A7EAC_1-JU1171,MMP,D0A7EAC_1,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,MMP-D0A7EAC_1-MY14,MMP,D0A7EAC_1,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,remove,MMP-D0A7EAC_1-JU345,MMP,D0A7EAC_1,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,remove,MMP-D0A7EAC_1-JU397,MMP,D0A7EAC_1,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,remove,Uchicago-L001-ECA36,Uchicago,L001,ECA36,,-36.893333,174.745529,"Auckland, New Zealand",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Uchicago-L001-NIC273,Uchicago,L001,NIC273,,39.769459,-8.756356,"AlqueidÃ£o da Boavista, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Uchicago-L001-JU2574,Uchicago,L001,JU2574,,,,,"Isolated from rotting stems (banana stems?) sampled on 4 Oct 2013 in Kovalam (Kerala, India) by Meena Murmu. Adult plated on 7 Oct 2013. Positive crosses with N2 in both directions.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Uchicago-L002-BRC20067,Uchicago,L002,BRC20067,,24.072954,121.169736,near Hehuanshan and W LIng in China,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Uchicago-L002-NIC272,Uchicago,L002,NIC272,,39.769459,-8.756356,"AlqueidÃ£o da Boavista, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Uchicago-L002-NIC271,Uchicago,L002,NIC271,,38.69237,-9.31592,"Oeiras, Portugal",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,Princeton-P-HK104,Princeton,P,HK104,,,,,,-10bp of end (low quality),,Tagmentation
+,remove,Princeton-P-QX1430,Princeton,P,QX1430,,NA,NA,NA,,-10bp of end (low quality),,Tagmentation
+,remove,Rockman076-R076.4-PB306,Rockman076,R076.4,PB306,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman077-R077.7-PB306,Rockman077,R077.7,PB306,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove ,Rockman083-R083.8-CB4507,Rockman083,R083.8,CB4507,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman096-R096.2-CB4855,Rockman096,R096.2,CB4855,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R096.2-EG4348,Rockman,R096.2,EG4348,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman096-R096.2-N2,Rockman096,R096.2,N2,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman096-R096.4-JU1711,Rockman096,R096.4,JU1711,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,delete,MMP-B00TWAB_3-AB1,MMP,B00TWAB_3,AB1,,-34.93,138.59,"Adelaide, South Australia (Australia)",,None,,Sonication
+,remove,Rockman-R096.4-EG4347,Rockman,R096.4,EG4347,,44.04789,-123.07108,"Eugene, USA",,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R096.4-JU1088,Rockman,R096.4,JU1088,,34.7613,138.0149,"Kakegawa, Japan","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R096.4-JU1711,Rockman,R096.4,JU1711,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R096.4-MY18,Rockman,R096.4,MY18,,51.96,7.53,"Roxel, Germany",,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R106.3-CB4856,Rockman,R106.3,CB4856,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R106.4-QX1211,Rockman,R106.4,QX1211,,37.7502,-122.4331,"San Francisco, USA",,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R999.1-A6330,Rockman,R999.1,A6330,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,Rockman-R999.1-AB2,Rockman,R999.1,AB2,,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+,remove,BGI1-RET1-HK104,BGI1,RET1,HK104,,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET1-HK104,BGI2,RET1,HK104,,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET1-QX1430,BGI1,RET1,QX1430,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET1-QX1430,BGI2,RET1,QX1430,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET1a-HK104,BGI3,RET1a,HK104,,,,,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET1a-QX1430,BGI3,RET1a,QX1430,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET3-QX2268,BGI1,RET3,QX2268,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET3-QX2268,BGI2,RET3,QX2268,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET3b-QX2268,BGI3,RET3b,QX2268,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET4-CB4858_CGC,BGI1,RET4,CB4858_CGC,,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET4-CB4858_CGC,BGI2,RET4,CB4858_CGC,,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET4-QX2267,BGI1,RET4,QX2267,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET4-QX2267,BGI2,RET4,QX2267,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET4b-CB4858_CGC,BGI3,RET4b,CB4858_CGC,,34.1,-118.1,"Pasadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET4b-QX2267,BGI3,RET4b,QX2267,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET5-CB4851_UK,BGI1,RET5,CB4851_UK,,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET5-CB4851_UK,BGI2,RET5,CB4851_UK,,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU312,MMP,B00TWAB_3,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+,remove,BGI1-RET5-CB4855_CGC,BGI1,RET5,CB4855_CGC,,37.43,-122.13,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI2-RET5-CB4855_CGC,BGI2,RET5,CB4855_CGC,,37.43,-122.13,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET5-QX2265,BGI1,RET5,QX2265,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-AB3,MMP,B00TWAB_3,AB3,,,,"Adelaide, South Australia (Australia)",,None,,Sonication
+,delete,MMP-B00TWAB_3-CB4853,MMP,B00TWAB_3,CB4853,,,,"Altadena, California (United States)",,None,,Sonication
+,remove,BGI2-RET5-QX2265,BGI2,RET5,QX2265,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-CB4854,MMP,B00TWAB_3,CB4854,,34.189,-118.131,"Altadena, California (United States)",,None,,Sonication
+,remove,BGI3-RET5b-CB4851_UK,BGI3,RET5b,CB4851_UK,,44.85,0.48,"Bergerac, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-ED3017,MMP,B00TWAB_3,ED3017,,55.92,-3.19,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+,delete,MMP-B00TWAB_3-ED3021,MMP,B00TWAB_3,ED3021,,,,"Edinburgh , Scotland (United Kingdom)",,None,,Sonication
+,delete,MMP-B00TWAB_3-ED3040,MMP,B00TWAB_3,ED3040,,-26.1,28.01,"Johannesburg, Gauteng South Africa (South Africa)",,None,,Sonication
+,delete,MMP-B00TWAB_3-ED3042,MMP,B00TWAB_3,ED3042,,,,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+,delete,MMP-B00TWAB_3-ED3049,MMP,B00TWAB_3,ED3049,,-33.22,19.19,"Ceres, Western Cape South (South Africa)","Isolated by Elie Dolgin in Ceres, South Africa, 33'22S, 19'19E, 478m, compost from a plant nursery at the Ceres Fruit Farms in the Western Cape province, collected April 2, 2006.",None,,Sonication
+,delete,MMP-B00TWAB_3-ED3052,MMP,B00TWAB_3,ED3052,,-33.22,19.19,"Ceres, Western Cape South (South Africa)",,None,,Sonication
+,delete,MMP-B00TWAB_3-ED3057,MMP,B00TWAB_3,ED3057,,,,"Limuru, Kiambu West District (Kenya)",,None,,Sonication
+,remove,BGI3-RET5b-CB4855_CGC,BGI3,RET5b,CB4855_CGC,,37.43,-122.13,"Palo Alto, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET5b-QX2265,BGI3,RET5b,QX2265,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET6-CB4853_CGC,BGI1,RET6,CB4853_CGC,,34.189,-118.131,"Altadena, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-GXW1,MMP,B00TWAB_3,GXW1,,30.542889,114.419828,"Wuhan China Guoxiu,  (China)",,None,,Sonication
+,remove,BGI1-RET6-CX11262,BGI1,RET6,CX11262,,34.12946,-118.10987,"Los Angeles, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET6-EG4349,BGI1,RET6,EG4349,,40.771467,-111.87316,"Salt Lake City, USA",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET6-JU1395,BGI1,RET6,JU1395,,47.2199,0.04619,"Saut-aux-Loups, France",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI1-RET6-JU1440,BGI1,RET6,JU1440,,41.41307,2.15231,"Barcelona, Spain","Isolated from rotting palm fruit sampled by MAF on 9 June 2008 in the Park Guëll, Barcelona, Spain. Picked as young adult on 11 June 2008.",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU1088,MMP,B00TWAB_3,JU1088,,34.7613,138.0149,"Kakegawa ,  (Japan)","Isolated by MAF from soil sampled on 14 March 2007 in the Kacho-en aviary in Kakegawa, Shizuoka prefecture, Japan. May not be independent from JU1083; was contaminated with a Microbacterium nematophilum-like phenotype (frozen in Q47). ",None,,Sonication
+,remove,BGI1-RET6-JU2001,BGI1,RET6,JU2001,,-21.1,55.5,La RÃ¨union,Sampled in La Réunion in Sep 2010 by Tony Belicard,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU1171,MMP,B00TWAB_3,JU1171,,,,"Conception,  (Chile)","Isolated from a compost sample collected in April 2007 in Concepcion, Chile, in the Palomares area, 2 km NE of the town.",None,,Sonication
+,remove,BGI1-RET6-JU792,BGI1,RET6,JU792,,43.06,0.24,"FrÃ©chendets, France","From the compost heap at the bottom of the garden in Frechendets (Hautes Pyrénées), 31 August 05",NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU1400,MMP,B00TWAB_3,JU1400,,37.3845,-5.988,"Seville, Andalucia (Spain)","Isolated from rotting orange fruits, Garden Catalina de Ribera, Sevilla, Spain sampled on 29 Mar 08 by MAF. Not bleached.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU1401,MMP,B00TWAB_3,JU1401,,,,"Carmona, Andalucia (Spain)","Isolated from Rumina decollata snail #4, sampled in front of the Parador of Carmona, Spain on 31 Mar 08 by MAF. Plated 3 Apr 08. Isolated as adult on 9 Apr 08.",None,,Sonication
+,remove,BGI1-RET6-QX2266,BGI1,RET6,QX2266,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU1652,MMP,B00TWAB_3,JU1652,,-34.86,-56.19,"Montevideo, R. Giordano (Uraguay)","Isolated by Rosina Giordano from compost sampled in Montevideo, Uruguay",None,,Sonication
+,remove,BGI2-RET6-QX2266,BGI2,RET6,QX2266,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,remove,BGI3-RET6b-QX2266,BGI3,RET6b,QX2266,,NA,NA,NA,,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-WN2011,ok,BGI1-RET5-WN2011,BGI1,RET5,WN2011,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-JU258,MMP,B00TWAB_3,JU258,,32.73,-16.89,"Ribeiro Frio, Madeira Portugal  (Portugal)","From Madeira Island, Portugal, Oct 01. Ribeiro  Frio  1.1. Along a path through an orchard.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU263,MMP,B00TWAB_3,JU263,,,,"Le Blanc, Indre France  (France)","Vegetable garden in Le Blanc, Indre, France, 3 Nov 01. Vegetable garbage pile. Same soil sample as JU262.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU300,MMP,B00TWAB_3,JU300,,,,"Le Blanc, Indre France  (France)","Le Blanc, Indre, France  - vegetable garden compost pile, 25 Aug 02.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU322,MMP,B00TWAB_3,JU322,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02.
+From a “Helix” ? snail #1 on the trunk of a mulberry tree (not the same snail as JU323).",None,,Sonication
+,delete,MMP-B00TWAB_3-JU345,MMP,B00TWAB_3,JU345,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).",None,,Sonication
+,delete,MMP-B00TWAB_3-JU360,MMP,B00TWAB_3,JU360,,48.98,2.23,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU361,MMP,B00TWAB_3,JU361,,,,"Franconville, Val d'Oise (France )","Franconville (Val d’Oise), France. Compost heap in Claude Pieau’s garden, 16 Sept 02.
+",None,,Sonication
+,delete,MMP-B00TWAB_3-JU394,MMP,B00TWAB_3,JU394,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU397,MMP,B00TWAB_3,JU397,,49.28,-0.32,"Hermanville, Calvados (France)","Hermanville (Calvados), France - compost pile, Sep 02.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU533,MMP,B00TWAB_3,JU533,,,,"Primel-Trigastrel, Finistere (France )","Isolated from compost heap in Primel-Trégastel (Finistère, France), 03 Oct 04. Picked as adult on 6 Oct 04.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU642,MMP,B00TWAB_3,JU642,,48.84,2.5,"Le Perreux sur Marne ,  (France )","Isolated from the compost heap in Jean-Antoine Lepesant’s garden (Le Perreux sur Marne -94- France), 14 Dec 04.",None,,Sonication
+,delete,MMP-B00TWAB_3-JU775,MMP,B00TWAB_3,JU775,,38.7175,-9.1486,"Lisbon,  (Portugal)","Isolated in the Botanical Garden, Lisbon, Portugal, 10 July 05 below a tree with red fruits rottening on the ground. END OF THE -80 TUBE, JULY 2009.",None,,Sonication
+BGI2-RET5-WN2011,ok,BGI2-RET5-WN2011,BGI2,RET5,WN2011,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-KR314,MMP,B00TWAB_3,KR314,,49.28,-123.13,"Vancouver, British Columbia (Canada)",,None,,Sonication
+,delete,MMP-B00TWAB_3-LKC34,MMP,B00TWAB_3,LKC34,,-18,46,",  (Madagascar)",,None,,Sonication
+,delete,MMP-B00TWAB_3-MY1,MMP,B00TWAB_3,MY1,,52.54,7.31,"Lingen, Emsland Germany  (Germany)",,None,,Sonication
+,delete,MMP-B00TWAB_3-MY14,MMP,B00TWAB_3,MY14,,,,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+,delete,MMP-B00TWAB_3-MY16,MMP,B00TWAB_3,MY16,,51.93,7.57,"Mecklenbeck, Munster Germany  (Germany)",,None,,Sonication
+BGI3-RET5b-WN2011,ok,BGI3-RET5b-WN2011,BGI3,RET5b,WN2011,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+,delete,MMP-B00TWAB_3-MY2,MMP,B00TWAB_3,MY2,,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+,delete,MMP-B00TWAB_3-MY6,MMP,B00TWAB_3,MY6,,,,"Roxel, Munster Germany  (Germany)",,None,,Sonication
+,delete,MMP-B00TWAB_3-PX174,MMP,B00TWAB_3,PX174,,,,"Lincoln City, Oregon (United States)",,None,,Sonication
+BGI1-RET7-WN2013,ok,BGI1-RET7-WN2013,BGI1,RET7,WN2013,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-WN2013,ok,BGI2-RET7-WN2013,BGI2,RET7,WN2013,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-WN2013,ok,BGI3-RET7b-WN2013,BGI3,RET7b,WN2013,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET4-WN2014,ok,BGI1-RET4-WN2014,BGI1,RET4,WN2014,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET4-WN2014,ok,BGI2-RET4-WN2014,BGI2,RET4,WN2014,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET4b-WN2014,ok,BGI3-RET4b-WN2014,BGI3,RET4b,WN2014,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-WN2016,ok,BGI1-RET7-WN2016,BGI1,RET7,WN2016,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-WN2016,ok,BGI2-RET7-WN2016,BGI2,RET7,WN2016,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-WN2016,ok,BGI3-RET7b-WN2016,BGI3,RET7b,WN2016,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET6-WN2017,ok,BGI1-RET6-WN2017,BGI1,RET6,WN2017,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET6-WN2017,ok,BGI2-RET6-WN2017,BGI2,RET6,WN2017,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET6b-WN2017,ok,BGI3-RET6b-WN2017,BGI3,RET6b,WN2017,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET5-WN2018,ok,BGI1-RET5-WN2018,BGI1,RET5,WN2018,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-WN2018,ok,BGI2-RET5-WN2018,BGI2,RET5,WN2018,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-WN2018,ok,BGI3-RET5b-WN2018,BGI3,RET5b,WN2018,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-WN2019,ok,BGI1-RET7-WN2019,BGI1,RET7,WN2019,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-WN2019,ok,BGI2-RET7-WN2019,BGI2,RET7,WN2019,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-WN2019,ok,BGI3-RET7b-WN2019,BGI3,RET7b,WN2019,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI1-RET7-WN2020,ok,BGI1-RET7-WN2020,BGI1,RET7,WN2020,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET7-WN2020,ok,BGI2-RET7-WN2020,BGI2,RET7,WN2020,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET7b-WN2020,ok,BGI3-RET7b-WN2020,BGI3,RET7b,WN2020,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET1b-WN2021,ok,BGI3-RET1b-WN2021,BGI3,RET1b,WN2021,WN2001,51.954422,6.303406,"Doetichem, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+Princeton-ECA30_c02hkac-WN2001,ok,Princeton-ECA30_c02hkac-WN2001,Princeton,ECA30_c02hkac,WN2001,WN2001,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+Princeton-ECA30_c03b2ab-WN2001,ok,Princeton-ECA30_c03b2ab-WN2001,Princeton,ECA30_c03b2ab,WN2001,WN2001,,,,,TruSeq2-PE.fa:2:80:10 TRAILING:30 SLIDINGWINDOW:4:30 MINLEN:30,,Sonication
+BGI1-RET5-WN2002,ok,BGI1-RET5-WN2002,BGI1,RET5,WN2002,WN2002,51.975285,5.694834,"Wageningen, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI2-RET5-WN2002,ok,BGI2-RET5-WN2002,BGI2,RET5,WN2002,WN2002,51.975285,5.694834,"Wageningen, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+BGI3-RET5b-WN2002,ok,BGI3-RET5b-WN2002,BGI3,RET5b,WN2002,WN2002,51.975285,5.694834,"Wageningen, Netherlands",,NexteraPE-PE.fa:2:80:10 MINLEN:45,,Tagmentation
+MMP-7028LAB_5-JU312,remove,MMP-7028LAB_5-JU312,MMP,7028LAB_5,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+MMP-B00B7AB_3-JU312,remove,MMP-B00B7AB_3-JU312,MMP,B00B7AB_3,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+MMP-C02D1AC_1-JU312,remove,MMP-C02D1AC_1-JU312,MMP,C02D1AC_1,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+MMP-D09NFAC_4-JU312,remove,MMP-D09NFAC_4-JU312,MMP,D09NFAC_4,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+MMP-D0A7EAC_1-JU312,remove,MMP-D0A7EAC_1-JU312,MMP,D0A7EAC_1,JU312,,,,"Merlet, Lagorce (Ardeche) France  (France)","Merlet, Lagorce (Ardèche), France. 8 Sep  02.
+Wash from snail tube - snails coming from under a tree full of ivy",None,,Sonication
+,,,,,,,,,,,,,
